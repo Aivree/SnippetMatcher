@@ -1,0 +1,6 @@
+Checking files . . . 
+OK
+Uploading TimeZoneTest.java ...done.
+Uploading SubstractDate.java ...done.
+Query submitted.  Waiting for the server's response.
+http://moss.stanford.edu/results/476770256
