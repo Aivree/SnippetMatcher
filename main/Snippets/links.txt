@@ -1,0 +1,292 @@
+TestCase1:
+==========
+src = "Snippets/Java/FormateDate.java"
+keywords=["java.text.ParseException","java.text.SimpleDateFormat","java.util.Date","format("]
+link= "http://stackoverflow.com/questions/4772425/format-date-in-java"
+
+
+Results
+=======
+
+https://www.github.com/qshadun/FromEverbox 49%
+https://www.github.com/qshadun/FromEverbox 49%
+https://www.github.com/AndSoAway/ProductCommentCrawler 49%
+https://www.github.com/jrask/hadoop-lab-solution 43%
+https://www.github.com/jrask/hadoop-lab 43%
+https://www.github.com/celeritas9/algo_java 43%
+https://www.github.com/EricDong4/LeetCode 40%
+https://www.github.com/EricDong4/LeetCode 40%
+https://www.github.com/kingfree/haut 40%
+https://www.github.com/tgkprog/codingbat 35%
+https://www.github.com/afthabe/learning 35%
+https://www.github.com/stests/energy 35%
+https://www.github.com/yuexinsrc/example 35%
+https://www.github.com/shashank180287/mobilepromopulgin 0%
+https://www.github.com/nnenad/diplomski 0%
+https://www.github.com/astreart/TapestryEmpty 0%
+https://www.github.com/xiaoling/xltools 0%
+https://www.github.com/got5/tapestry5-liferay 0%
+https://www.github.com/got5/tapestry5-jquery-demo 0%
+https://www.github.com/ghosertTest/TestProject 0%
+https://www.github.com/melanio/RssDigesterWithCouchbase 0%
+https://www.github.com/got5/tapestry5-liferay 0%
+https://www.github.com/got5/tapestry5-jquery-demo 0%
+https://www.github.com/ghosertTest/TestProject 0%
+https://www.github.com/melanio/RssDigesterWithCouchbase 0%
+https://www.github.com/29jitender/Mixpanel 0%
+https://www.github.com/ccbosch/Test 0%
+https://www.github.com/melanio/RssWebService 0%
+https://www.github.com/got5/tapestry5-jquery 0%
+https://www.github.com/ffacon/tapestry5-jquery-5.4 0%
+https://www.github.com/melanio/RssDigesterWithSpring 0%
+https://www.github.com/hlkiltas/JSFWebProject 0%
+https://www.github.com/niubaisui/Monitor 0%
+https://www.github.com/aroliveira/commons-driver 0%
+https://www.github.com/jkliff/timetracker 0%
+https://www.github.com/johannoren/WeatherStation 0%
+https://www.github.com/gavenwangcn/secCookie 0%
+https://www.github.com/raawan/AddressBook 0%
+https://www.github.com/xingnan1989/ISPNM_00007 0%
+https://www.github.com/vplme/Seedot 0%
+https://www.github.com/kursadaydin/JavaSinav 0%
+https://www.github.com/zhaoqc/budget 0%
+https://www.github.com/sidewalker/S04-bR0k3r 0%
+https://www.github.com/aroliveira/commons-driver 0%
+https://www.github.com/niubaisui/Monitor 0%
+https://www.github.com/rpinheiroalmeida/WorkFlow_Rodrigo 0%
+https://www.github.com/johannoren/WeatherStation 0%
+https://www.github.com/jkliff/timetracker 0%
+https://www.github.com/gavenwangcn/secCookie 0%
+https://www.github.com/tsdh/ttc14-fixml 0%
+https://www.github.com/fuqunqin/studyonline 0%
+https://www.github.com/zhangyihao/TwoYou 0%
+https://www.github.com/raawan/AddressBook 0%
+https://www.github.com/mzubok/issuetracker_pavel_dzunovich 0%
+https://www.github.com/KITSABHIJIT/Ihalkhata-WebService 0%
+https://www.github.com/siddur/mydesk 0%
+https://www.github.com/anatilla/tempserver-playframework 0%
+https://www.github.com/zjhzxhz/oes 0%
+https://www.github.com/xingnan1989/ISPNM_00007 0%
+https://www.github.com/dandaim/lotofacil 0%
+https://www.github.com/xushunseu/bookstore 0%
+https://www.github.com/rajithd/smart-rewards 0%
+https://www.github.com/qingtian/workreport 0%
+https://www.github.com/tarasrng/LV-102 0%
+https://www.github.com/francescomaturi/assignment2 0%
+https://www.github.com/lucazcabral/Locadora 0%
+https://www.github.com/pedroleite/SGIDPTeste 0%
+https://www.github.com/lgazo/itxp-java-basics 0%
+https://www.github.com/dbastin/donkey 0%
+https://www.github.com/rwinch/sagan 0%
+https://www.github.com/iHSU/security-server 0%
+https://www.github.com/jessehwong/ssh-demo 0%
+https://www.github.com/kunalakhakhar/ngo_new 0%
+https://www.github.com/cimolus/OOP-Kassirov 0%
+https://www.github.com/ayumi-/tax-webapp 0%
+https://www.github.com/coofee/Android 0%
+https://www.github.com/murtazabsil/FMS 0%
+https://www.github.com/jiangyinjie00/Hospital 0%
+https://www.github.com/coofee/Android 0%
+https://www.github.com/ghlingjun/multimedia-info-distribute-and-manage-system 0%
+https://www.github.com/lihelper/trunk 0%
+https://www.github.com/clintonjmurdoch/jwxicc 0%
+https://www.github.com/lightbody/browsermob-page-perf 0%
+https://www.github.com/kimkoen3536/travel-plan 0%
+https://www.github.com/Rembau/QuartzScheduler 0%
+https://www.github.com/eytanbm/advisor 0%
+https://www.github.com/almazhou/DataProcess 0%
+https://www.github.com/dubing/NikeRunClubReport 0%
+https://www.github.com/luismr/lab 0%
+https://www.github.com/sednem/curso-jsf 0%
+
+
+TestCase2
+----------
+Python
+http://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example
+keywords = "RequestContext HttpResponseRedirect DocumentForm RequestContext django.http".split()
+
+https://raw.githubusercontent.com/theo-l/django-tour/e59dd75f07009957f434a1c9f79644c60648aaec/tour/fileupload/views.py
+https://raw.githubusercontent.com/EthanRM/hellohost/698a149aca50410e5f74e01946b9234019b49bee/uploader/views.py
+https://raw.githubusercontent.com/DBeath/django-fileupload/09c22b62deedba37de4dd2aef6be05c11c66bd39/upload/views.py
+https://raw.githubusercontent.com/peterbraden/verandah/6dbd5d58df0d18d82fdffabeb646f8e1b2691e0f/verandah/typewriter/views.py
+https://raw.githubusercontent.com/gzpgg3x/FileUpload/98d0f895417d74b62b291429f87ef00d290875bd/myproject/myapp/views.py
+https://raw.githubusercontent.com/alexwchen/Minimal_File_Upload_Django_Sample/f41d9b338ccb3198a303072b4fada47ff4a28532/src/myproject/myapp/views.py
+https://raw.githubusercontent.com/golliher/hpf/c030e609454dacc82cf2e9c0ece3e8dde788e62a/webremote/remote/views.py
+https://raw.githubusercontent.com/whitefoxx/wx_upload/c8b5ab40d5db900adb7888b89a2941ed1900b05f/wx_upload/upload/views.py
+https://raw.githubusercontent.com/emilysa/SummerProject/17d8e904cb5ba31edd4c599a2a2490a0a2071f9c/django_celery_fileprocess_example/file_process/views.py
+https://raw.githubusercontent.com/emilysa/SummerProject/17d8e904cb5ba31edd4c599a2a2490a0a2071f9c/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/lcbenall/CSE360_Project/e772c62f8307afcff1685d7abcdddf7dab08fbf6/minimal_file_upload/src/for_django_1-3/myproject/myapp/views.py
+https://raw.githubusercontent.com/lcbenall/CSE360_Project/e772c62f8307afcff1685d7abcdddf7dab08fbf6/minimal_file_upload/src/for_django_1-4/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/lcbenall/CSE360_Project/e772c62f8307afcff1685d7abcdddf7dab08fbf6/minimal_file_upload/src/for_django_1-5/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/lcbenall/CSE360_Project/e772c62f8307afcff1685d7abcdddf7dab08fbf6/minimal_file_upload/src/for_django_1-6/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/rkwant/astro-250-hw-8/cb10a7ad213e13b111e513baccf213dd0d7f423d/HW7/Week9-Web/journal/form/views.py
+https://raw.githubusercontent.com/fojurov/django-upload/cf47924a14eb37dd1de0c475775a5082ccb26a44/myproject/myapp/views.py
+https://raw.githubusercontent.com/daveweber/Algorithms/20efcba0861ff105f0ae5460dcf997844b4b0a29/Interview/Python/fileUpload/newproject/newproject/app/views.py
+https://raw.githubusercontent.com/taian/pyDoggieRadar/ad09cf50b740412712a1b4ef6b4972b9c8ffed0b/myapp/views.py
+https://raw.githubusercontent.com/alanleegithub/helloworld/3935c569546eadeb9f42521a3e96b3b834ef0c3b/myapp/views.py
+https://raw.githubusercontent.com/Forrestjohnston/fileupload_simple/d877f40b86461ea6b89f69a23a8cdd9c2875d37a/fileupload_simple/fileupload/views.py
+https://raw.githubusercontent.com/jchong01/video/0b0bfc56f877f322c727dbd025b69a60298b80bc/video_app/views.py
+https://raw.githubusercontent.com/jchong01/video/0b0bfc56f877f322c727dbd025b69a60298b80bc/video_app/views.py%7E
+https://raw.githubusercontent.com/nishantkshyp2004/uploadtext/6bf04bccf5c63424bd568cd45d40f130d0c24556/app/views.py
+https://raw.githubusercontent.com/luis-wang/minimal-django-file-upload-example/e475db81a3a16ff2a2c5e9a12d867a0f47999b08/myproject/myapp/views.py
+https://raw.githubusercontent.com/wachos/WyszukiwarkaLegend/261b5da0cb7dff6cff7065d4569b9d4d744644cb/myproject/myapp/views.py
+https://raw.githubusercontent.com/KleeTaurus/django-qiniu-storage/cb2b7e6201fa8e8f13c7922febaa65780c9c8b57/cloudstorage/upload/views.py
+https://raw.githubusercontent.com/ABS-org/django-webservice/445ab488e6782ee5030bef3a17d160251d2ef422/project/apps/uploader/views.py
+https://raw.githubusercontent.com/develra/Legos/2e89097fde0477fb9494f8c0ed73424450b7d2c6/File_uploader/myproject/myapp/views.py
+https://raw.githubusercontent.com/willianribeiro/django-upload-example/2abed166d0d421c3ef758db81b0a3d0c3a36f89f/src/uploads/views.py
+https://raw.githubusercontent.com/nikhilverma23/uploadfiles/412249273d84daaca3a43bc90faea12a86dd721f/app/views.py
+https://raw.githubusercontent.com/PorterChen/ServiceSite/790117afed464ebad7f0d2d95b1d817f22ee2d0c/ServiceSite/uploadsfiles/views.py
+https://raw.githubusercontent.com/erprateek/Phylogenetic-Pipeline/3984d7c4dac8caf05fc1316c442699f1a1793729/test/django/django-related-tests/minimal-django-file-upload/src/for_django_1-3/myproject/myapp/views.py
+https://raw.githubusercontent.com/erprateek/Phylogenetic-Pipeline/3984d7c4dac8caf05fc1316c442699f1a1793729/test/django/django-related-tests/minimal-django-file-upload/src/for_django_1-4/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/axelpale/minimal-django-file-upload-example/715871264a8a80e24935f71f21b41743ed56dc70/src/for_django_1-3/myproject/myapp/views.py
+https://raw.githubusercontent.com/axelpale/minimal-django-file-upload-example/715871264a8a80e24935f71f21b41743ed56dc70/src/for_django_1-4/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/axelpale/minimal-django-file-upload-example/715871264a8a80e24935f71f21b41743ed56dc70/src/for_django_1-5/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/axelpale/minimal-django-file-upload-example/715871264a8a80e24935f71f21b41743ed56dc70/src/for_django_1-6/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/linxuping/djtest_uploadfile/259cfb7626a8ee7a1fb2565cb67a2a0995052400/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/ashuven63/AudiorecordDjango/c3b57dd3680fb01a76aecb9ab79db376cb422446/myaudiorecord/myRecordUpload/views.py
+https://raw.githubusercontent.com/antonfaint/SerchEngine/06694d8df5a79d482167a74b1417114c02e57be1/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/Sparta-301/Source/3bc1a136b76d3d1bbe61492d25407e389884a177/django-file-upload/src/for_django_1-3/myproject/myapp/views.py
+https://raw.githubusercontent.com/Sparta-301/Source/3bc1a136b76d3d1bbe61492d25407e389884a177/django-file-upload/src/for_django_1-4/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/Sparta-301/Source/3bc1a136b76d3d1bbe61492d25407e389884a177/django-file-upload/src/for_django_1-5/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/minaevmike/praktica/2fb2b76592e5c824ad9acec2cf16f9285c3c654b/Diplom/Samples/minimal-django-file-upload-example-master/src/for_django_1-3/myproject/myapp/views.py
+https://raw.githubusercontent.com/minaevmike/praktica/2fb2b76592e5c824ad9acec2cf16f9285c3c654b/Diplom/Samples/minimal-django-file-upload-example-master/src/for_django_1-4/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/minaevmike/praktica/2fb2b76592e5c824ad9acec2cf16f9285c3c654b/Diplom/Samples/minimal-django-file-upload-example-master/src/for_django_1-5/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/minaevmike/praktica/2fb2b76592e5c824ad9acec2cf16f9285c3c654b/Diplom/Samples/minimal-django-file-upload-example-master/src/for_django_1-6/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/713/project/a476512e5630f1a8eee0b8bc21eebbf22bed4da3/test/django/django-related-tests/minimal-django-file-upload/src/for_django_1-3/myproject/myapp/views.py
+https://raw.githubusercontent.com/713/project/a476512e5630f1a8eee0b8bc21eebbf22bed4da3/test/django/django-related-tests/minimal-django-file-upload/src/for_django_1-4/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/luis-wang/django_upload/82c13b91c65ce80f4594443a2658903714624615/myproject/myapp/views.py
+https://raw.githubusercontent.com/ngamita/batube/4f5f7cd521e9b9fdcb74fb1e6b0a5751932c581c/uploads/views.py
+https://raw.githubusercontent.com/Nahikariii/Shopaholic-WebService/bce8aee41b7ed3488f4cdc12b4b6a22f73a63996/photos/views.py
+https://raw.githubusercontent.com/vskarich/tutoring_site/2929341d4f0450c45209f4ccba0a3990352311c5/uploads/views.py
+https://raw.githubusercontent.com/danpaulson/isi-docs/0e60a03d7eb4d1abf1e0435d775348c6b6891c99/apps/docmanager/views.py
+https://raw.githubusercontent.com/willianribeiro/tg/e3aabd12f5974a7f88bd0b0a5bdb110478eda639/src/core/views.py
+https://raw.githubusercontent.com/wa-pis/inception/e1f862652d79537ad92099da8b2c94366a999797/inception/ctf/views.py
+https://raw.githubusercontent.com/paltman/django-pdf/98253983c2f7aa4cc57ed4f08310ab131643fd1c/pdf/views.py
+https://raw.githubusercontent.com/klpdotorg/community_dashboard/fb450b2c176b64c3570e8627a85341e31fe21284/aksharaklp/aksharaklp/fileuploadapp/views.py
+https://raw.githubusercontent.com/rainu1991/Django_file_upload_app/8f05d4c7a4d5089c5a92419a0c9c616903f21064/business/businessapp/views.py
+https://raw.githubusercontent.com/carlosp420/job_runner/c4fab3e9274b5a2bed70bd4123da2a3b69fd80b7/job_runner/runner/views.py
+https://raw.githubusercontent.com/kristiandamian/Ajustes/a54c7b276ca46f1a8b5a1b4378c9a70ccb371fa8/ajustesLogica/views/ajustes/controllerEvidencia.py
+https://raw.githubusercontent.com/alexwchen/Video_Audio_Recording_Django_HTML5/17462b779f8c2519b16f8112b9b845df2d1434e3/backup/myproject/myapp/views.py
+https://raw.githubusercontent.com/dvalcarce/shogun-bakufu/fc625435879c7cbd72a8102b0c253ccc1a2db2b7/src/pages/views.py
+https://raw.githubusercontent.com/tianyi33/CloudyHome/dace9a596f4ba3482addfa1a2b70232f3e13556b/shareFolder/views.py
+https://raw.githubusercontent.com/westleyrussell/SPGammaIota/22eff2fce25cf061d5dcc734b52a5dc0cd32e53a/SigmaPi/Library/views.py
+https://raw.githubusercontent.com/Justasic/StackSmash/3846461873764ecd0601fc107a7910b06ab6938f/StackSmash/apps/uploader/views.py
+https://raw.githubusercontent.com/twozi/icebox/d64d7938e8c5c241e4e78350f67d6e42332f5009/icebox/upload.py
+https://raw.githubusercontent.com/alexwchen/Video_Audio_Recording_Django_HTML5/17462b779f8c2519b16f8112b9b845df2d1434e3/Sample%20Audio%20Code/audio_in_django/myapp/views.py
+https://raw.githubusercontent.com/alexwchen/Video_Audio_Recording_Django_HTML5/17462b779f8c2519b16f8112b9b845df2d1434e3/myproject/myapp/views.py
+https://raw.githubusercontent.com/enter-the-bot/minava/90e14e6a3cc79b5384e2390c358f1817052b0820/blogengine/views.py
+https://raw.githubusercontent.com/ddohler/webocr/3d8fd4f0ae152fb5b37376d4569879b5a1d32825/djocr_logic/views/main.py
+https://raw.githubusercontent.com/soteric/ireport_new/596aafc5972c11915e43dabb77ba5d73342134d3/pmu_jira_update/views.py
+https://raw.githubusercontent.com/raubreywhite/analysis_hub/3d6ee471fbaeb688248c36952a9f98de7dc603d8/mysite/automatic_mapping/views.py
+https://raw.githubusercontent.com/raubreywhite/analysis_hub/3d6ee471fbaeb688248c36952a9f98de7dc603d8/mysite/automatic_money/views.py
+https://raw.githubusercontent.com/Puneet-Malik/Puneet_Resume_Builder/7d42306114d17812c526cd591019647e2350a143/parse_resume/views.py
+https://raw.githubusercontent.com/danst0/Portfolio/e510464a2aedc3e861136654a9e901dd18642390/importer/views.py
+https://raw.githubusercontent.com/dhrubajyotidoley/django-excel-data-to-db/4cb9f7835b622b1ddd71649e7a1e05de8e278162/xluploaddb/upload/views.py
+https://raw.githubusercontent.com/tanaysengar/customerreviews/f3b0dbc31795c3f488ff5921df87997ec5b2016a/fileupload/views.py
+https://raw.githubusercontent.com/marciojss/tutodjango/f39c7a4c8c92738222c3e44fbfd83e441a7a184e/mysite/contact/views.py
+https://raw.githubusercontent.com/davidnovodchuk/edXWorkspace/9737b38dbb1518c0b5a9596908487c945b2ae3b4/testMongo/testMongo/views.py
+https://raw.githubusercontent.com/cuongnmeas/ase/21ba159c3f6656c854688389919e34f0946deb9e/myapp/views/Documents.py
+https://raw.githubusercontent.com/Rub21/map_geofiles/65c54498661cf9fcd9ed1fbf356b1d4dc491ff7e/mapfiles/app/views.py
+https://raw.githubusercontent.com/Granvanoeli/Double-file-upload/c4836e66fdbbbbb2089ec540fc9b98b68ed35163/myproject/myproject/myapp/views.py
+https://raw.githubusercontent.com/Granvanoeli/Double-file-upload-user/def989912dfd8897b8813815f2a486369dca3379/myproject/myapp/views.py
+https://raw.githubusercontent.com/Mathilde94/FamilialSharing/d20f4e39b84da6381ac0f5ac3a695c6c417577a1/platform/views.py
+https://raw.githubusercontent.com/lprader/SportsCohorts/6116b3c3807b0371c0d100c7a54d68ef2a0c8c42/uploader/views.py
+https://raw.githubusercontent.com/Granvanoeli/Demo-upload/42881789d38210943abd0666ae716662dc71acd5/myproject/myapp/views.py
+https://raw.githubusercontent.com/Granvanoeli/Double-file-upload-fields/c3306a1bba00bc477b7441605eb53f66c9bbae49/myproject/myapp/views.py
+https://raw.githubusercontent.com/Badsauce/cse491_django/c6b673c77db43e96e5be8de5c138c18317d8e47f/myproject/imageapp/views.py
+https://raw.githubusercontent.com/balikasg/BioASQParticipantsArea/0fbe03bc18c55d47d95636d64a949ae8e34a550f/Test/temp.py
+
+
+
+
+https://www.github.com/emilysa/SummerProject 92%
+https://www.github.com/lcbenall/CSE360_Project 92%
+https://www.github.com/lcbenall/CSE360_Project 92%
+https://www.github.com/lcbenall/CSE360_Project 92%
+https://www.github.com/lcbenall/CSE360_Project 92%
+https://www.github.com/fojurov/django-upload 92%
+https://www.github.com/Forrestjohnston/fileupload_simple 92%
+https://www.github.com/luis-wang/minimal-django-file-upload-example 92%
+https://www.github.com/wachos/WyszukiwarkaLegend 92%
+https://www.github.com/develra/Legos 92%
+https://www.github.com/erprateek/Phylogenetic-Pipeline 92%
+https://www.github.com/erprateek/Phylogenetic-Pipeline 92%
+https://www.github.com/axelpale/minimal-django-file-upload-example 92%
+https://www.github.com/axelpale/minimal-django-file-upload-example 92%
+https://www.github.com/axelpale/minimal-django-file-upload-example 92%
+https://www.github.com/axelpale/minimal-django-file-upload-example 92%
+https://www.github.com/linxuping/djtest_uploadfile 92%
+https://www.github.com/antonfaint/SerchEngine 92%
+https://www.github.com/Sparta-301/Source 92%
+https://www.github.com/Sparta-301/Source 92%
+https://www.github.com/Sparta-301/Source 92%
+https://www.github.com/minaevmike/praktica 92%
+https://www.github.com/minaevmike/praktica 92%
+https://www.github.com/minaevmike/praktica 92%
+https://www.github.com/minaevmike/praktica 92%
+https://www.github.com/713/project 92%
+https://www.github.com/713/project 92%
+https://www.github.com/alexwchen/Video_Audio_Recording_Django_HTML5 92%
+https://www.github.com/ngamita/batube 88%
+https://www.github.com/daveweber/Algorithms 86%
+https://www.github.com/ABS-org/django-webservice 86%
+https://www.github.com/alexwchen/Video_Audio_Recording_Django_HTML5 85%
+https://www.github.com/alexwchen/Video_Audio_Recording_Django_HTML5 85%
+https://www.github.com/rainu1991/Django_file_upload_app 84%
+https://www.github.com/gzpgg3x/FileUpload 83%
+https://www.github.com/taian/pyDoggieRadar 83%
+https://www.github.com/alanleegithub/helloworld 83%
+https://www.github.com/jchong01/video 83%
+https://www.github.com/jchong01/video 83%
+https://www.github.com/KleeTaurus/django-qiniu-storage 83%
+https://www.github.com/Badsauce/cse491_django 83%
+https://www.github.com/emilysa/SummerProject 81%
+https://www.github.com/willianribeiro/django-upload-example 81%
+https://www.github.com/EthanRM/hellohost 80%
+https://www.github.com/ashuven63/AudiorecordDjango 79%
+https://www.github.com/nishantkshyp2004/uploadtext 78%
+https://www.github.com/nikhilverma23/uploadfiles 78%
+https://www.github.com/golliher/hpf 77%
+https://www.github.com/PorterChen/ServiceSite 77%
+https://www.github.com/twozi/icebox 77%
+https://www.github.com/enter-the-bot/minava 77%
+https://www.github.com/klpdotorg/community_dashboard 75%
+https://www.github.com/alexwchen/Minimal_File_Upload_Django_Sample 73%
+https://www.github.com/DBeath/django-fileupload 71%
+https://www.github.com/luis-wang/django_upload 70%
+https://www.github.com/vskarich/tutoring_site 64%
+https://www.github.com/tanaysengar/customerreviews 60%
+https://www.github.com/carlosp420/job_runner 59%
+https://www.github.com/soteric/ireport_new 58%
+https://www.github.com/dhrubajyotidoley/django-excel-data-to-db 58%
+https://www.github.com/Granvanoeli/Demo-upload 58%
+https://www.github.com/Nahikariii/Shopaholic-WebService 53%
+https://www.github.com/danst0/Portfolio 53%
+https://www.github.com/theo-l/django-tour 52%
+https://www.github.com/Justasic/StackSmash 50%
+https://www.github.com/westleyrussell/SPGammaIota 47%
+https://www.github.com/balikasg/BioASQParticipantsArea 47%
+https://www.github.com/marciojss/tutodjango 43%
+https://www.github.com/whitefoxx/wx_upload 36%
+https://www.github.com/rkwant/astro-250-hw-8 35%
+https://www.github.com/wa-pis/inception 33%
+https://www.github.com/davidnovodchuk/edXWorkspace 33%
+https://www.github.com/Rub21/map_geofiles 33%
+https://www.github.com/Puneet-Malik/Puneet_Resume_Builder 29%
+https://www.github.com/Granvanoeli/Double-file-upload 29%
+https://www.github.com/Granvanoeli/Double-file-upload-user 29%
+https://www.github.com/Granvanoeli/Double-file-upload-fields 29%
+https://www.github.com/willianribeiro/tg 25%
+https://www.github.com/ddohler/webocr 25%
+https://www.github.com/tianyi33/CloudyHome 24%
+https://www.github.com/raubreywhite/analysis_hub 24%
+https://www.github.com/raubreywhite/analysis_hub 24%
+https://www.github.com/Mathilde94/FamilialSharing 24%
+https://www.github.com/lprader/SportsCohorts 24%
+https://www.github.com/dvalcarce/shogun-bakufu 22%
+https://www.github.com/peterbraden/verandah 0%
+https://www.github.com/danpaulson/isi-docs 0%
+https://www.github.com/paltman/django-pdf 0%
+https://www.github.com/kristiandamian/Ajustes 0%
+https://www.github.com/cuongnmeas/ase 0%
