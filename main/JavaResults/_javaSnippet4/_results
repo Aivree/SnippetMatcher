@@ -1,0 +1,103 @@
+82% https://www.github.com/msen2000/services SecretKeyGenerator.java
+70% https://www.github.com/sangupta/jerry-core CryptoUtils.java
+68% https://www.github.com/Dimitiy/NBC AES.java
+47% https://www.github.com/latentflip/notify SimpleCrypto.java
+47% https://www.github.com/jbudz/textmanager ContentCrypto.java
+45% https://www.github.com/kentfonager/exchange-sync SecurityHelper.java
+45% https://www.github.com/woppels/cs285_hw2 AESDemo.java
+45% https://www.github.com/Psep/jAES256-test AESDemo.java
+45% https://www.github.com/Archinamon/persefone AES256.java
+43% https://www.github.com/lonslonz/PrimeMailer Crypto.java
+43% https://www.github.com/teamllys/bootesServer Crypto.java
+43% https://www.github.com/ezbake/ezbake-quarantine EncryptionUtility.java
+41% https://www.github.com/aerobless/ToxicTodo EncryptionEngine.java
+39% https://www.github.com/matteskridge/Frtive FrtiveSecretKey.java
+34% https://www.github.com/chobing97/mac_settings SimpleEncryptor.java
+34% https://www.github.com/gpoltera/CryptCod AES.java
+32% https://www.github.com/alafroiskiotos/ScorpioFs KeynCipher.java
+32% https://www.github.com/tomfitzhenry/passwordstuffs App.java
+27% https://www.github.com/wmobilas/Android1 Crypter.java
+27% https://www.github.com/netcook/crash-catcher Crypter.java
+27% https://www.github.com/NKPmedia/JServerControl ReadWriteAES.java
+27% https://www.github.com/hauckwill/silencer Cryptography.java
+27% https://www.github.com/johnmcconnell/lifesights SecurityUtil.java
+27% https://www.github.com/begleynk/SEG3-Server Encryptor.java
+0% https://www.github.com/mocha-language/Mocha CompilationUtils.java
+0% https://www.github.com/oroshisoba/aescipher AesCipher.java
+0% https://www.github.com/openCage/setec DeEnc.java
+0% https://www.github.com/darrinholst/1Reader-java-core PBKDF2.java
+0% https://www.github.com/Mistic92/ServerClient Decode.java
+0% https://www.github.com/Mistic92/ServerClient Decode.java
+0% https://www.github.com/iron-hulk/KeepMeSafe SecurityService.java
+0% https://www.github.com/sfrink/CERTUS-Token DataEncryptor.java
+0% https://www.github.com/sfrink/CERTUS-Server DataEncryptor.java
+0% https://www.github.com/jvrs/leo Symmetric.java
+0% https://www.github.com/danielf80/TracPlus2 CryptoToolBase.java
+0% https://www.github.com/tntim96/JSChat SecurityUtils.java
+0% https://www.github.com/hedfun2/AESEncryption AESEncryption.java
+0% https://www.github.com/fletchto99/File-Encryptor SecurityUtility.java
+0% https://www.github.com/sharjeel/SPADE-Android CipherSocket.java
+0% https://www.github.com/githubone/connectivity AbstractCrypto.java
+0% https://www.github.com/code303/LongitudeApp Codec.java
+0% https://www.github.com/jovenbico/Cryptography PKCS5Scheme1Test.java
+0% https://www.github.com/Languafe/Beginning-Cryptography-with-Java PKCS5Scheme1Test.java
+0% https://www.github.com/steri4git/JavaCryptographyArchitecture_Examples PKCS5Scheme1Test.java
+0% https://www.github.com/chronicweirdo/makeitso EncryptionUtils.java
+0% https://www.github.com/codlab/cypherapp Cypher.java
+0% https://www.github.com/herisn23/psychedelic-artists Encryption.java
+0% https://www.github.com/ashwanthg/Security AESEncrypt.java
+0% https://www.github.com/js0p/SkeletonWebApp SymmetricEncryptionManager.java
+0% https://www.github.com/ashwanthg/GitJacoco AESDecrypt.java
+0% https://www.github.com/cowboyrushforth/cross_platform_snippets aes.java
+0% https://www.github.com/ashwanthg/Security AESDecrypt.java
+0% https://www.github.com/openCage/stellvertreter DeEnc.java
+0% https://www.github.com/Goofybud16/EncryptoChat CryptoAES.java
+0% https://www.github.com/isakkarlsson/confi-netsec SymmertricCipher.java
+0% https://www.github.com/Stivo/DeScaBaTo AES.java
+0% https://www.github.com/xkommando/WebFace AESEncryptor.java
+0% https://www.github.com/gusterwoei/Nissan EnDe.java
+0% https://www.github.com/TDP017/Android AESEncrypter.java
+0% https://www.github.com/TDP017/Android AESEncrypter.java
+0% https://www.github.com/raulrene/crypto-java-service CryptService.java
+0% https://www.github.com/dbuschman7/mongoFS BasicCrypto.java
+0% https://www.github.com/credentials/irma_future_id PBETest.java
+0% https://www.github.com/jovenbico/Cryptography PBEWithParamsExample.java
+0% https://www.github.com/jovenbico/Cryptography PBEWithoutParamsExample.java
+0% https://www.github.com/mgoellnitz/JFileSync3 SecurityUtils.java
+0% https://www.github.com/Languafe/Beginning-Cryptography-with-Java PBEWithParamsExample.java
+0% https://www.github.com/Languafe/Beginning-Cryptography-with-Java PBEWithParamsExample.java
+0% https://www.github.com/Languafe/Beginning-Cryptography-with-Java PBEWithoutParamsExample.java
+0% https://www.github.com/craftercms/commons PbkAesTextEncryptor.java
+0% https://www.github.com/mlundblad/bc-java PBETest.java
+0% https://www.github.com/Haerezis/bcprov-151 PBETest.java
+0% https://www.github.com/steri4git/JavaCryptographyArchitecture_Examples PBEWithParamsExample.java
+0% https://www.github.com/steri4git/JavaCryptographyArchitecture_Examples PBEWithoutParamsExample.java
+0% https://www.github.com/bcgit/bc-java PBETest.java
+0% https://www.github.com/sake/bouncycastle-java PBETest.java
+0% https://www.github.com/GaloisInc/hacrypto PBETest.java
+0% https://www.github.com/TheHolyPwnage/aes256 AesTwo.java
+0% https://www.github.com/fletchto99/Secure-Notepad SecurityUtility.java
+0% https://www.github.com/t4f/t4f-core PKCS5Scheme1Test.java
+0% https://www.github.com/ufmtcacomp/sd Cript.java
+0% https://www.github.com/Goviami/BullsEye SecurityUtil.java
+0% https://www.github.com/nandhusriram/assurantcodelabs CipherUtil.java
+0% https://www.github.com/mjremijan/article-aes AesBase64Wrapper.java
+0% https://www.github.com/dvargo/common KeyGenerator.java
+0% https://www.github.com/wydong523/ui PasswordCheck.java
+0% https://www.github.com/cesarcardinali/EldPhoto SimpleAES.java
+0% https://www.github.com/TNG/property-loader Obfuscator.java
+0% https://www.github.com/costin1989/Dwarf DecryptFile.java
+0% https://www.github.com/revolsys/com.revolsys.open PasswordUtil.java
+match count 24 
+total repos 90
+
+Repos with percentage match in range0-10% 66
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 6
+Repos with percentage match in range30-40% 5
+Repos with percentage match in range40-50% 10
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 1
+Repos with percentage match in range70-80% 1
+Repos with percentage match in range80-90% 1
+Repos with percentage match in range90-100% 0

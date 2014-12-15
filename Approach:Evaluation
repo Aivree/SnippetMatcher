@@ -1,0 +1,34 @@
+Approach/Evaluation
+===================
+
+Our technique involves a keyword extractor which extracts keywords from code snippets and feeds it to the repository filter. The repository filter searches for keywords in online repositories to return a set of repositories containing the keywords. Then the code snippet and the list of probable matching repositories is passed to a code matching engine, which detects level of similarity between the code snippet and the repositories sent. The list of repositories are then sorted in order of their match percentage. 
+
+< Insert Diagram >
+
+We use popular question and answer platform 'Stack Overflow' as the source of code snippets and popular online code repository 'Github' as our source of online repositories. 
+
+For the choice of keywords to be fed into the repository filter, for our study we chose just types and method names in the code snippets.
+For our evaluation, we manually extract the keywords from the block of the code snippets. Automatic keyword extraction tools or tools for [code summarization](Add reference) may be used in future work.
+
+We use 'GitHub Search Box' as our repository filter. We crawl the web results from the github search box to extract repository and matching files information.The repository filter has a upper limit paramter of the top number of repositories to be returned from the search result. This paramter can be controlled based on response time of the results required. For more accurate results, the paramter should be a large value. For our evaluation, we pick the top 100 matching repositories for the keywords based on the 'Best Match' filter on the website.
+We do not clone the whole repository for searching the code base. We base that on the fact that if multiple files in the same repository have the same set of keywords, they appear as seperate files in the search query.
+
+For the code matching engine, we use popular code plagiarism detector tool Moss. Moss is found to be really effective in finding out code similarities and is used extensively in industry and academia. 
+
+ We chose languages from stack overflow on the basis of maximum number of tagged questions for the language. And we use languages with most repositories in github as our basis for top languages on github. For our evaluation, we chose the intersection of the 5 most popular programming languages in stack overflow and github.We omit those languages not currently supported by our code matching tool 'Moss'. We use Java, Javascript, C#, C++, Python as languages for code snippets.[Add Reference].
+
+For each programming language, we take a set of 5 most viewed programming questions.
+ These questions are selected on the basis of views on general views and queries based on stack overflow for popular frameworks. For instance - we search for questions on 'Django' for python as the most famous framework and pick the most viewed programming question for the framework.
+We chose three answers per question that include code snippets. Since we manually select these questions, we understand that picking up questions withs snippets from Stack Overflow might be subject to selection bias. For our evaluation, we pickup answers from the questions which have code snippets. Since, we extract keywords from the code snippet, we chose answers which can generate atleast a threshold number of  keywords from the text. For our study, we use minimum of 3 keywords per answer. 
+
+Applications
+============
+
+Based on the results of the code matching algorithms, we make the following 2 recommendations.
+1) Top matching repositories are recommended for the code snippet as recommendations for reference material.
+2) A unified metric as a 'Snippet Score' which consolidates all the percentage matches and the frequency of appearance of the code snippet in the repository to return a rating for that answer.
+
+Future Work
+===========
+This tool can be used to detect plagiarism.
+This tool can be used to build a recommendation systems.

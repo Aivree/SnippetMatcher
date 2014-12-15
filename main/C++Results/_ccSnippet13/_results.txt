@@ -1,0 +1,103 @@
+91% https://www.github.com/backbone/Libgee-CMake os_spec_functions.c
+91% https://www.github.com/goshng/cocoa alder_file_sysctl.c
+91% https://www.github.com/LibertyEiffel/Liberty processors_count.c
+83% https://www.github.com/tpoechtrager/wc-ng cpucount.c
+83% https://www.github.com/tpoechtrager/osxcross cpucount.c
+83% https://www.github.com/neufeld/pandaseq misc.c
+83% https://www.github.com/jonathan-beard/ScheduleVariance system_query.c
+76% https://www.github.com/willcannings/learner sysctl.c
+76% https://www.github.com/rkl-gilro/mri maxNumCompThreads.c
+76% https://www.github.com/simba518/StVKSimulator GetNumCores.h
+76% https://www.github.com/simba518/Utility GetNumCores.h
+76% https://www.github.com/wegatron/embedded_thin_shell GetNumCores.h
+76% https://www.github.com/aojeda/mobilab maxNumCompThreads.c
+76% https://www.github.com/buddhabrot/buddhabrot cpu_info.h
+76% https://www.github.com/jwiegley/ghc-release getnumcores.c
+76% https://www.github.com/tkcossio/MatlabBase multiple_os_thread.h
+76% https://www.github.com/tkcossio/MatlabBase multiple_os_thread.h
+76% https://www.github.com/haskell/cabal getnumcores.c
+76% https://www.github.com/23Skidoo/ghc-parmake getnumcores.c
+76% https://www.github.com/Paczesiowa/cabal-install-bundle getnumcores.c
+76% https://www.github.com/genawas/AAM multiple_os_thread.h
+76% https://www.github.com/clyde7/iv system.c
+76% https://www.github.com/nominolo/cabal-sat getnumcores.c
+76% https://www.github.com/josephwecker/gx gx_cpus.h
+76% https://www.github.com/tmoerkerken/ASMONH multiple_os_thread.h
+76% https://www.github.com/tmoerkerken/ASMONH multiple_os_thread.h
+76% https://www.github.com/ghc/packages-Cabal getnumcores.c
+76% https://www.github.com/josiah14/lubuntu_home_dir getnumcores.c
+76% https://www.github.com/joewing/jload cpucount.c
+76% https://www.github.com/jsree18/Image-Morphing multiple_os_thread.h
+76% https://www.github.com/Mirkic7/mdcct helper.c
+76% https://www.github.com/r-majere/mjminer helper.c
+56% https://www.github.com/qsantos/dev sysinfo.c
+56% https://www.github.com/mdelling/md5_crack cpus.c
+56% https://www.github.com/mdelling/md5_crack cpus.c
+44% https://www.github.com/svn2github/quakespasm2 sys_sdl_unix.c
+41% https://www.github.com/kiryx/msvmpack delete.c
+41% https://www.github.com/felipealmeida/efl eina_cpu.c
+41% https://www.github.com/jordemort/eina eina_cpu.c
+41% https://www.github.com/Stefan-Schmidt/Enlightenment eina_cpu.c
+41% https://www.github.com/Distrotech/gnutls eina_cpu.c
+41% https://www.github.com/sqs/gnutls eina_cpu.c
+41% https://www.github.com/ppelleti/gnutls eina_cpu.c
+41% https://www.github.com/ShiftMediaProject/gnutls eina_cpu.c
+41% https://www.github.com/frankmorgner/gnutls eina_cpu.c
+41% https://www.github.com/turran/eina eina_cpu.c
+41% https://www.github.com/turran/efl eina_cpu.c
+41% https://www.github.com/gfriloux/eina eina_cpu.c
+41% https://www.github.com/attilamolnar/gnutls eina_cpu.c
+41% https://www.github.com/philippe-goetz/gnutls eina_cpu.c
+41% https://www.github.com/kakaroto/e17 eina_cpu.c
+41% https://www.github.com/wargio/EFL-PS3 eina_cpu.c
+41% https://www.github.com/playya/Enlightenment eina_cpu.c
+41% https://www.github.com/playya/Enlightenment eina_cpu.c
+41% https://www.github.com/playya/Enlightenment eina_cpu.c
+41% https://www.github.com/shr-project/enlightenment eina_cpu.c
+0% https://www.github.com/gtk-gnutella/gtk-gnutella getcpucount.c
+0% https://www.github.com/mdwarfgeek/lib sysinfo.c
+0% https://www.github.com/rsms/sol host.c
+0% https://www.github.com/RetVal/RSCoreFoundation RSPrivateOSCpu.c
+0% https://www.github.com/10n1/LAE system.c
+0% https://www.github.com/jpoirier/cpu cpu.c
+0% https://www.github.com/jdkoftinoff/mb-linux-msli os.c
+0% https://www.github.com/robacklin/uclinux-users os.c
+0% https://www.github.com/ZHAW-INES/rioxo-uClinux-dist os.c
+0% https://www.github.com/rhuitl/uClinux os.c
+0% https://www.github.com/scs/uclinux os.c
+0% https://www.github.com/nmacs/lm3s-uclinux os.c
+0% https://www.github.com/andrewbates09/numa physmem.c
+0% https://www.github.com/unofficial-opensource-apple/llvmgcc42 physmem.c
+0% https://www.github.com/threader/gcc-5666.3-darwin8 physmem.c
+0% https://www.github.com/adobe-flash/crossbridge physmem.c
+0% https://www.github.com/unofficial-opensource-apple/gcc physmem.c
+0% https://www.github.com/littlepretty/MyBSDReading physmem.c
+0% https://www.github.com/daniloegea/freebsd-radnet physmem.c
+0% https://www.github.com/jld/linaro-android-gcc physmem.c
+0% https://www.github.com/aosm/gcc physmem.c
+0% https://www.github.com/trasz/chelsio physmem.c
+0% https://www.github.com/bathtub/llvm-gcc physmem.c
+0% https://www.github.com/daniloegea/FreeBSD-REP physmem.c
+0% https://www.github.com/aosm/llvmgcc42 physmem.c
+0% https://www.github.com/rotten-apples/gcc physmem.c
+0% https://www.github.com/freebsd/freebsd physmem.c
+0% https://www.github.com/verisign/freebsd physmem.c
+0% https://www.github.com/kitche/demonedgebsd physmem.c
+0% https://www.github.com/xin3liang/toolchain_gcc physmem.c
+0% https://www.github.com/davidbrazdil/cherivm os.c
+0% https://www.github.com/v1ne/freebsd-xen-arm physmem.c
+0% https://www.github.com/himanshuchoudhary/freebsd physmem.c
+0% https://www.github.com/colding/MercuryFIX cpu.h
+match count 56 
+total repos 90
+
+Repos with percentage match in range0-10% 34
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 21
+Repos with percentage match in range50-60% 3
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 25
+Repos with percentage match in range80-90% 4
+Repos with percentage match in range90-100% 3

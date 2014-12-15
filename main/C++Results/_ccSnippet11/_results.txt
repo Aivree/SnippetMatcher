@@ -1,0 +1,103 @@
+0% https://www.github.com/GHScan/DailyProjects StringUtility.h
+0% https://www.github.com/OsirisSPS/osiris-sps algorithms.h
+0% https://www.github.com/izenecloud/sf1r-ad-delivery QueryHelper.h
+0% https://www.github.com/izenecloud/sf1r-lite QueryHelper.h
+0% https://www.github.com/vitamin-caig/zxtune utils.h
+0% https://www.github.com/madlee/kuai strtool.h
+0% https://www.github.com/joliebig/TypeChef-OpenSSLAnalysis platform.h
+0% https://www.github.com/ckaestne/TypeChef-LinuxAnalysis platform.h
+0% https://www.github.com/joliebig/TypeChef-SQLiteAnalysis platform.h
+0% https://www.github.com/ckaestne/TypeChef platform.h
+0% https://www.github.com/aJanker/Morpheus-SQLiteEvaluation platform.h
+0% https://www.github.com/aJanker/Morpheus-OpenSSLEvaluation platform.h
+0% https://www.github.com/fgarbe/TypeChef-SQLiteIfdeftoif platform.h
+0% https://www.github.com/avasenin/diploma2010-2011 _string.h
+0% https://www.github.com/avasenin/diploma2010-2011 _string.h
+0% https://www.github.com/andyspb/private string_tools.h
+0% https://www.github.com/h4ck3rm1k3/strawberry qstring.h
+0% https://www.github.com/neutmute/emgucv ml_c.h
+0% https://www.github.com/ripple/rippled rfc2616.h
+0% https://www.github.com/DarkLordJack/Leaknote string_tools.h
+0% https://www.github.com/romeric/FEAPB PiezoAreaMoments.h
+0% https://www.github.com/cbuchner1/mountcoin string_tools.h
+0% https://www.github.com/truefire/TPS_Undergrad_Thesis gdfParser.h
+0% https://www.github.com/oneevil/OneEvilCoin string_tools.h
+0% https://www.github.com/xpbcreator/pebblecoin string_tools.h
+0% https://www.github.com/mere-mortal/diamondback string_tools.h
+0% https://www.github.com/piecescoin/pie string_tools.h
+0% https://www.github.com/CryptoCoinLabs/darknetspace string_tools.h
+0% https://www.github.com/amphibia/SoloMiner string_tools.h
+0% https://www.github.com/tikwanleap/myBytecoin string_tools.h
+0% https://www.github.com/BanCurrency/ban string_tools.h
+0% https://www.github.com/clintar/boolberry-opencl string_tools.h
+0% https://www.github.com/siegbenn/greychip string_tools.h
+0% https://www.github.com/aeonix/aeon string_tools.h
+0% https://www.github.com/mere-mortal/dosh-master string_tools.h
+0% https://www.github.com/Ninespire/Ravecoin-cryptonote string_tools.h
+0% https://www.github.com/sabelnikov/epee string_tools.h
+0% https://www.github.com/mere-mortal/silverback string_tools.h
+0% https://www.github.com/cryptozoidberg/boolberry string_tools.h
+0% https://www.github.com/monero-project/bitmonero string_tools.h
+0% https://www.github.com/fanye398/bytecoin string_tools.h
+0% https://www.github.com/alien43/misc file_reader.h
+0% https://www.github.com/cchip/cchip string_tools.h
+0% https://www.github.com/lucasjones/node-cryptonote-util string_tools.h
+0% https://www.github.com/CodingUnit/NMeter convert.h
+0% https://www.github.com/transfix/trans-vr BoundingBox.h
+0% https://www.github.com/transfix/trans-cvc bounding_box.h
+0% https://www.github.com/vasiloglou/PaperBoat kde_defs.h
+0% https://www.github.com/wangch/cppagent respond.h
+0% https://www.github.com/Fredxxx/Platereader FianiumSC.h
+0% https://www.github.com/dougkelly88/uManager-development FianiumSC.h
+0% https://www.github.com/dougkelly88/uManagerAdapters FianiumSC.h
+0% https://www.github.com/SafirSDK/safir_sdk_core SerializationUtils.h
+0% https://www.github.com/anderswiden/safir-sdk-bak SerializationUtils.h
+0% https://www.github.com/kubicek/fred-server corba_conversion.h
+0% https://www.github.com/syntheticpp/zerobugs string.h
+0% https://www.github.com/nv1r/icinga2 qstring.h
+0% https://www.github.com/Panke/zerobugs string.h
+0% https://www.github.com/LANJr4D/FRED corba_conversion.h
+0% https://www.github.com/gzmask/nodejs_dlib_binding string.h
+0% https://www.github.com/4ian/GD string.h
+0% https://www.github.com/vicaya/hypertable HqlParser.h
+0% https://www.github.com/4ian/GD-Extensions string.h
+0% https://www.github.com/kavonm/Dlib string.h
+0% https://www.github.com/Chpark/itomp string.h
+0% https://www.github.com/doo/dclib string.h
+0% https://www.github.com/arnaudgelas/dclib string.h
+0% https://www.github.com/mop/LTPTextDetector string.h
+0% https://www.github.com/melissavdh/meg-main string.h
+0% https://www.github.com/melissavdh/meg-main string.h
+0% https://www.github.com/hypertable/hypertable CommitLogBase.h
+0% https://www.github.com/jrbruce86/Project_Isagoge string.h
+0% https://www.github.com/fvantilburg/joost string.h
+0% https://www.github.com/mop/LTPTextDetector string.h
+0% https://www.github.com/VoltDB/voltdb stringfunctions.h
+0% https://www.github.com/armornick/lake-projects string.h
+0% https://www.github.com/kimiyoung/pr-project string.h
+0% https://www.github.com/eoneil1942/voltdb-4.7fix stringfunctions.h
+0% https://www.github.com/barak/mldemos string.h
+0% https://www.github.com/mocalab/ScalableVideo string.h
+0% https://www.github.com/kaathleen/LeapGesture-library string.h
+0% https://www.github.com/SaswatPadhi/dlib string.h
+0% https://www.github.com/mnolan2/offlineSlSc string.h
+0% https://www.github.com/TaiManProject/Dirks_Code_V3 string.h
+0% https://www.github.com/ehrhardttool/cppagent-master string.h
+0% https://www.github.com/grimripper/grim_dlib_testing string.h
+0% https://www.github.com/irr/c-labs string.h
+0% https://www.github.com/bsankaran/clutter_segmentation string.h
+0% https://www.github.com/mtconnect/cppagent string.h
+0% https://www.github.com/Firfi/kelpi_rs string.h
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

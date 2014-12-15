@@ -1,0 +1,29 @@
+﻿@using EShop.Core
+@model EShop.Core.User
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">×</button>
+    <h3>İstifadəçinin məlumatları</h3>
+</div>
+@using (Html.BeginForm("EditUser", "Admin", FormMethod.Post))
+{
+    Html.HiddenFor(model => model.UserId);
+    Html.AntiForgeryToken();
+    var statusList = from StatusEnum s in Enum.GetValues(typeof(StatusEnum))
+                     select new { ID = s, Name = s.ToString() };
+    var statuses = new SelectList(statusList, "ID", "Name", Model.Status);
+
+    var positionList = from PositionEnum s in Enum.GetValues(typeof(PositionEnum))
+                       select new { ID = s, Name = s.ToString() };
+    var positions = new SelectList(positionList, "ID", "Name", Model.Position);
+    <div class="modal-body">
+        <strong>Vəzifəsi</strong>
+        @Html.DropDownListFor(model => model.Position, positions)
+        <br />
+        <strong>Statusu:</strong>
+        @Html.DropDownListFor(model => model.Status, statuses)
+    </div>
+    <div class="modal-footer">
+        <a href="#" class="btn" data-dismiss="modal">Bağla</a>
+        <button class="btn btn-primary">Yadda saxla</button>
+    </div>
+}

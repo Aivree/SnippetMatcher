@@ -1,0 +1,103 @@
+80% https://www.github.com/logrcubed/FaceRecognitionService-master MailingModule.cs
+28% https://www.github.com/swapnildalvi90/sandwich_referral_drive EmailSend.cs
+0% https://www.github.com/mominbd/testing MailHelper.cs
+0% https://www.github.com/gkachadiya/MVCMakesTaskEasy EmailUtility.cs
+0% https://www.github.com/gkachadiya/MVCMakesTaskEasy EmailUtility.cs
+0% https://www.github.com/zhangwechao/b2c-codes EmailHelper.cs
+0% https://www.github.com/felixthehat/Limo EmailHelper.cs
+0% https://www.github.com/felixthehat/Limo AssociationEmail.Extension.cs
+0% https://www.github.com/hostitherepc/Fork-1 EmailUtils.cs
+0% https://www.github.com/Incarnito/DSA EmailService.svc.cs
+0% https://www.github.com/codezyc/MyFramework MailUtils.cs
+0% https://www.github.com/DragonsD/ElDirectorioWeb EmailSender.cs
+0% https://www.github.com/wfsiew/ProductOrderSystem_ GMailService.cs
+0% https://www.github.com/hostitherepc/Fork-1 EmailUtils.cs
+0% https://www.github.com/sanjeevDeecoup/Quick BasePage.cs
+0% https://www.github.com/Incarnito/DSA EmailService.svc.cs
+0% https://www.github.com/sanjeevarora777/NewQuickSoftware BasePage.cs
+0% https://www.github.com/codezyc/MyFramework MailUtils.cs
+0% https://www.github.com/paramtrivedi/Technetium Email.aspx.cs
+0% https://www.github.com/cfgj/dot-net-course Smtp.cs
+0% https://www.github.com/Apozhidaev/Any.Scheduler EmailService.cs
+0% https://www.github.com/stefchri/ArticulatieOnderzoek MailManager.cs
+0% https://www.github.com/kjellkeisse/socialgeogroep9 MailManager.cs
+0% https://www.github.com/JunaidShakoor/AspDotNetDemo EmailService.cs
+0% https://www.github.com/Epitomy/CMS SubmissionController.cs
+0% https://www.github.com/capgemini-stavanger/CapRaffle EmailSender.cs
+0% https://www.github.com/aicike/Test SendEmail.cs
+0% https://www.github.com/xbollart/WPF Program.cs
+0% https://www.github.com/JauchOnGitHub/csharptoolbox Mail.cs
+0% https://www.github.com/richardspencer27/RLBryan EmailSender.cs
+0% https://www.github.com/ghimesanamaria/LicentaWeb MailProvider.cs
+0% https://www.github.com/geoco84/csm MailUtil.cs
+0% https://www.github.com/bobbz/CommonLibrary Mailer.cs
+0% https://www.github.com/ozekiltd/Onvif-IP-Camera-Viewer Email.cs
+0% https://www.github.com/mzkabbani/cSharpProjects EmailRequest.cs
+0% https://www.github.com/gangbee/Sageowl-Source-Code Common.cs
+0% https://www.github.com/justasabc/csharp_tutorials Program.cs
+0% https://www.github.com/bobbz/ConsoleApplication1 Mailer.cs
+0% https://www.github.com/RazvanPredescu/im.identity.admin SmtpEmailService.cs
+0% https://www.github.com/alierdemsunar/AESBeam SMTPMailer.cs
+0% https://www.github.com/RazvanPredescu/im.identity.admin SmtpEmailService.cs
+0% https://www.github.com/alierdemsunar/AESBeam SMTPMailer.cs
+0% https://www.github.com/gangbee/GregProject Common.cs
+0% https://www.github.com/DyegoCosta/SubtitleRefactor Mail.cs
+0% https://www.github.com/marco2250/BibleReadingApp SendMail.cs
+0% https://www.github.com/gertjan-ceyssens/MyFaxInterface SMTPConnection.cs
+0% https://www.github.com/arranhuxtable/IEHistoryBackup EmailManager.cs
+0% https://www.github.com/vinhdang/New_Vietrip EmailHelper.cs
+0% https://www.github.com/swapnildalvi90/sandwich_referral_drive MailSending_Class.cs
+0% https://www.github.com/swapnildalvi90/sandwich_referral_drive Email_Sending__Class.cs
+0% https://www.github.com/jonorri/ActionFolders HelperFunction.cs
+0% https://www.github.com/lingsu/WebMvc EmailSender.cs
+0% https://www.github.com/stefchri/Radar MailManager.cs
+0% https://www.github.com/FrankFan/FrankMail MailHelper.cs
+0% https://www.github.com/vinhdang/New_Apartment_1 EmailHelper.cs
+0% https://www.github.com/Praveencls/cxm ProcessMessage.cs
+0% https://www.github.com/vdclouis/Social-Geo MailManager.cs
+0% https://www.github.com/stefchri/ArticulatieOnderzoek MailManager.cs
+0% https://www.github.com/somkheart/DTISolutionSource LibraryMail.cs
+0% https://www.github.com/nikunj-prajapati/loanprice EmailHelper.cs
+0% https://www.github.com/qinfangge/News Emailer.cs
+0% https://www.github.com/kjellkeisse/socialgeogroep9 MailManager.cs
+0% https://www.github.com/ixoth/ood smtp.cs
+0% https://www.github.com/JunaidShakoor/AspDotNetDemo EmailService.cs
+0% https://www.github.com/aicike/Budget SendEmail.cs
+0% https://www.github.com/andrescoulson/PatronesDisenio GmailSmtp.cs
+0% https://www.github.com/andrescoulson/PatronesDisenio HotmailSmtp.cs
+0% https://www.github.com/andrescoulson/PatronesDisenio YahooSmtp.cs
+0% https://www.github.com/qinfangge/Gift Emailer.cs
+0% https://www.github.com/Epitomy/CMS SubmissionController.cs
+0% https://www.github.com/chulaiguo/Creator HelperEmail.cs
+0% https://www.github.com/capgemini-stavanger/CapRaffle EmailSender.cs
+0% https://www.github.com/Blackvault/TGCRacing EmailSender.cs
+0% https://www.github.com/aicike/Test SendEmail.cs
+0% https://www.github.com/nerndt/iRobotKinect SendEmail.cs
+0% https://www.github.com/BryanApellanes/Brevitee Email.cs
+0% https://www.github.com/xbollart/WPF Program.cs
+0% https://www.github.com/Atmtech/Developpement MailService.cs
+0% https://www.github.com/JauchOnGitHub/csharptoolbox Mail.cs
+0% https://www.github.com/dennisdai/MSMQ_EMIAL EmailService.cs
+0% https://www.github.com/unicloud/AFRP NetSelfSend.cs
+0% https://www.github.com/DotNetProject-EmployeeRecords/development Emailer.cs
+0% https://www.github.com/ghazanfarseyal/ServiceDotNet EmailUtil.cs
+0% https://www.github.com/xbollart/Samples Program.cs
+0% https://www.github.com/futuregreatdoctor/shopgoodwillex EmailSender.cs
+0% https://www.github.com/tmedeiros/terminixbooks EmailSender.cs
+0% https://www.github.com/popotans/helper EmailManager.cs
+0% https://www.github.com/Foboy/RCEcommerce EmailSender.cs
+0% https://www.github.com/jcampossanzana/turismo EmailFactory.cs
+0% https://www.github.com/navy235/nopCom EmailSender.cs
+match count 2 
+total repos 90
+
+Repos with percentage match in range0-10% 88
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 1
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 1
+Repos with percentage match in range90-100% 0

@@ -1,0 +1,101 @@
+97% https://www.github.com/eruanno123/nirnaeth-arnoediad EnumBooleanConverter.cs
+97% https://www.github.com/Deathnetworks/Trinity EnumBooleanConverter.cs
+97% https://www.github.com/simon-knox/SafeAndSound2014 EnumBooleanConverter.cs
+97% https://www.github.com/simon-knox/SafeAndSound2014 EnumBooleanConverter.cs
+97% https://www.github.com/xbadcode/Rubezh EnumBooleanConverter.cs
+97% https://www.github.com/crkzaigit/DemonbuddyProfiles EnumBooleanConverter.cs
+97% https://www.github.com/crkzaigit/DemonbuddyProfiles EnumBooleanConverter.cs
+97% https://www.github.com/crkzaigit/DemonbuddyProfiles EnumBooleanConverter.cs
+97% https://www.github.com/mshi/Trinity EnumBooleanConverter.cs
+97% https://www.github.com/togwar/MyBuddy EnumBooleanConverter.cs
+97% https://www.github.com/GlobalcachingEU/GAPP EnumBooleanConverter.cs
+97% https://www.github.com/ktflabs/realestate Converters.cs
+97% https://www.github.com/GlobalcachingEU/GAPP EnumBooleanConverter.cs
+97% https://www.github.com/ktflabs/realestate Converters.cs
+95% https://www.github.com/gforot/ordce EnumBooleanConverter.cs
+94% https://www.github.com/ayls/EatMyDust EnumBooleanConverter.cs
+93% https://www.github.com/roederf/wpfReferenceApp EnumToVisibilityConverter.cs
+93% https://www.github.com/tp-nscan/WpfWorklist MediaConverters.cs
+93% https://www.github.com/tp-nscan/KeypairSorting MediaConverters.cs
+93% https://www.github.com/tp-nscan/EpiG MediaConverters.cs
+93% https://www.github.com/tp-nscan/Demo MediaConverters.cs
+93% https://www.github.com/tp-nscan/EpyG MediaConverters.cs
+90% https://www.github.com/Lothy/cyclist-surveyor EnumValueConverter.cs
+90% https://www.github.com/DynamoDS/Dynamo Converters.cs
+82% https://www.github.com/Easy-DDI-Organizer/EDO EnumBooleanConverter.cs
+81% https://www.github.com/malliina/musicpimp-win EnumBooleanConverter.cs
+81% https://www.github.com/senfo/snaglV2 EnumBooleanValueConverter.cs
+81% https://www.github.com/nithinphilips/bbwifimusicsync Converters.cs
+79% https://www.github.com/SaschaNaz/trixiewpf45 MvvmUtil.cs
+78% https://www.github.com/scottmccain/WpfXScope EnumBooleanConverter.cs
+75% https://www.github.com/julodnik/sharpdevelop_o Converters.cs
+75% https://www.github.com/icsharpcode/SharpDevelop Converters.cs
+74% https://www.github.com/slimsymphony/astt EnumToBoolConverter.cs
+72% https://www.github.com/satishkt/archfirst TransferKindConverters.cs
+62% https://www.github.com/mshi/Trinity EnumVisibilityConverter.cs
+62% https://www.github.com/crkzaigit/DemonbuddyProfiles EnumVisibilityConverter.cs
+62% https://www.github.com/crkzaigit/DemonbuddyProfiles EnumVisibilityConverter.cs
+62% https://www.github.com/crkzaigit/DemonbuddyProfiles EnumVisibilityConverter.cs
+62% https://www.github.com/togwar/MyBuddy EnumVisibilityConverter.cs
+59% https://www.github.com/Invenietis/yodii EnumToBooleanConverter.cs
+59% https://www.github.com/Invenietis/yodii EnumToBooleanConverter.cs
+51% https://www.github.com/j-hayes/Flash-Card-App SearchEnumConverter.cs
+51% https://www.github.com/TJSoftware/WPFTesting RadioButtonTutorial.xaml.cs
+51% https://www.github.com/j-hayes/Flash-Card-App SearchEnumConverter.cs
+51% https://www.github.com/TJSoftware/WPFTesting RadioButtonTutorial.xaml.cs
+50% https://www.github.com/zinch/FSim EnumToBooleanConvertor.cs
+50% https://www.github.com/stevenh77/SilverlightSamples EnumBooleanConverter.cs
+50% https://www.github.com/bj0/test-cm-switching BoolToEnumConverter.cs
+46% https://www.github.com/niuzheng168/WPF Converters.cs
+45% https://www.github.com/thoemmi/Solutionizer EnumBooleanConverter.cs
+45% https://www.github.com/mazanuj/RealEstate Converters.cs
+45% https://www.github.com/KonstantinDavidov/mytestRep EnumToBooleanConverter.cs
+45% https://www.github.com/uniquegodwin/Costura EnumBooleanConverter.cs
+45% https://www.github.com/mazanuj/RealEstate Converters.cs
+45% https://www.github.com/MatthewMerricks/Cloud CLConverters.cs
+45% https://www.github.com/l1pton17/VCA-player MainViewModel.cs
+35% https://www.github.com/martinsuchan/WP.NuPogodi EnumBooleanConverter.cs
+35% https://www.github.com/martinsuchan/WP.Bugemos EnumBooleanConverter.xaml.cs
+29% https://www.github.com/dnGrep/dnGrep EnumBooleanConverter.cs
+26% https://www.github.com/Rhoana/Mojo EnumBooleanConverter.cs
+26% https://www.github.com/zukey/TrashBox Binding.xaml.cs
+26% https://www.github.com/palm3r/EngineChartViewer Converters.cs
+26% https://www.github.com/zukey/TrashBox Binding.xaml.cs
+26% https://www.github.com/palm3r/EngineChartViewer Converters.cs
+21% https://www.github.com/Dashboard-X/Family.Show ValueConverters.cs
+0% https://www.github.com/se-yoshi/GetHandleApp EnumBooleanConverter.cs
+0% https://www.github.com/mayth/Lemonedo EnumBooleanConverter.cs
+0% https://www.github.com/saburow/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/rhenium/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/fin-alice/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/saburow/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/ktoku89/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/rhenium/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/takeshik/Mystique EnumToRadioConverter.cs
+0% https://www.github.com/madguy/CaveTalk EnumBooleanConverter.cs
+0% https://www.github.com/furinji/Reversi EnumRadioConverter.cs
+0% https://www.github.com/bgourlie/petroledger EnumToBooleanConverter.cs
+0% https://www.github.com/progre/pecastarter5 EnumBoolConverter.cs
+0% https://www.github.com/karno/Lycanthrope EnumRadioConverter.cs
+0% https://www.github.com/karno/Lycanthrope EnumRadioConverter.cs
+0% https://www.github.com/danm-de/AquaLightControl EnumBooleanConverter.cs
+0% https://www.github.com/devinen/civilwarriors DifficultyToBoolean.cs
+0% https://www.github.com/sohong/greenfleet-viewer EnumToBooleanConverter.cs
+0% https://www.github.com/karno/Lycanthrope EnumRadioConverter.cs
+0% https://www.github.com/karno/Lycanthrope EnumRadioConverter.cs
+0% https://www.github.com/dc1394/ASB2 EnumBooleanConverter.cs
+0% https://www.github.com/outcoldman/momasy-win EnumToVisibilityConverter.cs
+0% https://www.github.com/BBAConsulting/STARS_PLUGIN Utils.cs
+match count 65 
+total repos 88
+
+Repos with percentage match in range0-10% 23
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 7
+Repos with percentage match in range30-40% 2
+Repos with percentage match in range40-50% 8
+Repos with percentage match in range50-60% 9
+Repos with percentage match in range60-70% 5
+Repos with percentage match in range70-80% 6
+Repos with percentage match in range80-90% 4
+Repos with percentage match in range90-100% 24

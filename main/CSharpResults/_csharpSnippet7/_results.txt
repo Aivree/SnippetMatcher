@@ -1,0 +1,41 @@
+90% https://www.github.com/bcstrawn/shopping EnumExtensions.cs
+90% https://www.github.com/KozhevnikovDmitry/ExchangeRates EnumExtensions.cs
+90% https://www.github.com/lancer7082/TestMVC Extensions.cs
+90% https://www.github.com/AdJones/DigitalScrumBoard Extensions.cs
+90% https://www.github.com/arunghosh/rh_ats EnumExtension.cs
+90% https://www.github.com/F1nZeR/SportLib SelectListHelper.cs
+90% https://www.github.com/johannest09/Xland2014 XlandExtensions.cs
+90% https://www.github.com/gourabbose/Poultry Helper.cs
+90% https://www.github.com/oazabir/teamvy Utility.cs
+90% https://www.github.com/GabrielCapano/transito-de- Extension.cs
+85% https://www.github.com/slayer12135293/projectmanager PriceCalculationTypeExtensions.cs
+85% https://www.github.com/zeiglar/ecommerce EnumHelper.cs
+85% https://www.github.com/arunghosh/AuxBrainzAdbms EnumExtension.cs
+85% https://www.github.com/Maximcr/bugzbgone ExtensionMethods.cs
+85% https://www.github.com/raskarov/StudentManagement OtherExtensions.cs
+75% https://www.github.com/j-walker23/autobotleasing HtmlHelpers.cs
+75% https://www.github.com/carlos0202/CommonTasksLib MvcHelperExtensions.cs
+75% https://www.github.com/OBHITA/PROCenter HtmlHelper.cs
+72% https://www.github.com/JscNZ/joshcourtis.com Extension.cs
+72% https://www.github.com/Grinderofl/Tracker EnumExtensions.cs
+62% https://www.github.com/anakrivokuca/EED EnumToSelectList.cs
+62% https://www.github.com/jtstriker3/Joe.Web.Mvc HtmlExtentions.cs
+55% https://www.github.com/rochimensi/test-track Common.cs
+52% https://www.github.com/NoFlaw/EnumsAndExtensions MvcExtensions.cs
+45% https://www.github.com/TallyDotNet/event-site ExtensionMethods.cs
+0% https://www.github.com/ThomasBoeriis/SkoleProjekt HtmlHelpers.cs
+0% https://www.github.com/n1ghtmare/Kauntr EnumExtensions.cs
+0% https://www.github.com/jiwanovski/BoardCockpit Extensions.cs
+match count 25 
+total repos 28
+
+Repos with percentage match in range0-10% 3
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 1
+Repos with percentage match in range50-60% 2
+Repos with percentage match in range60-70% 2
+Repos with percentage match in range70-80% 5
+Repos with percentage match in range80-90% 5
+Repos with percentage match in range90-100% 10

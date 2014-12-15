@@ -1,0 +1,88 @@
+95% https://www.github.com/MongkonEiadon/WalletManager Time.cs
+95% https://www.github.com/GrindFest/GrindFest DateHelper.cs
+95% https://www.github.com/GitNinja/GitNinja.Gallery DateTimeExtensions.cs
+95% https://www.github.com/pakrym/YouTrackBoard TimeSpanUtilities.cs
+95% https://www.github.com/carbonrobot/Castle TimespanExtensions.cs
+95% https://www.github.com/Sinbadsoft/Chirper Tweet.cs
+95% https://www.github.com/mikaelharsjo/Yoyyin DateTimeExtensions.cs
+95% https://www.github.com/fatagun/FiratAtagun.Common HtmlExtensions.cs
+95% https://www.github.com/fatagun/Cizgim HtmlHelpers.cs
+95% https://www.github.com/fatagun/RustemAskin HtmlHelpers.cs
+95% https://www.github.com/fsari/AshEbook HtmlHelpers.cs
+95% https://www.github.com/fatagun/NihatTosun HtmlHelpers.cs
+95% https://www.github.com/seth-hayward/letters Helpers.cs
+81% https://www.github.com/hguldal/grouplat Tarih.cs
+81% https://www.github.com/expand/eXpand DateTimeUtils.cs
+81% https://www.github.com/blounty/XB1 TimeAgoConverter.cs
+81% https://www.github.com/MongkonEiadon/WPFBase RelativeTimeConverter.cs
+53% https://www.github.com/guipasmoi/MangaTracker DateTimeToAgoConverter.cs
+31% https://www.github.com/legendz3/GroupMeBot DateTimeExtensions.cs
+17% https://www.github.com/purdue-cs-groups/cs307-project01 FriendlierTime.cs
+17% https://www.github.com/GovindMalviya/IAnswerable.Utility DateTimeExtensions.cs
+17% https://www.github.com/kshyju/ProjectPlanningTool DateTimeExtensions.cs
+17% https://www.github.com/ryantomlinson/SocialPipeline DateTimeExtensions.cs
+17% https://www.github.com/henkin/brisk Time.cs
+17% https://www.github.com/jjchiw/rpsls FriendlyTimeHelper.cs
+17% https://www.github.com/Sandra/Sandra.Snow DateTimeExtensions.cs
+17% https://www.github.com/shiftkey/thoughtstrike FriendlyTimeHelper.cs
+17% https://www.github.com/amitapl/blogamitapple DateTimeExtensions.cs
+17% https://www.github.com/jjchiw/dpath FriendlyTimeHelper.cs
+17% https://www.github.com/Code52/Ideastrike FriendlyTimeHelper.cs
+17% https://www.github.com/asizikov/MyStackOverflow DateTimeUtils.cs
+17% https://www.github.com/terencemutizwa/Zum-Taxononomies TMTimeHelper.cs
+17% https://www.github.com/eddebaby/DayZCommander RecentServer.cs
+17% https://www.github.com/lologarithm/DayZCommander RecentServer.cs
+17% https://www.github.com/proftom/DayZero-Launcher RecentServer.cs
+17% https://www.github.com/newvet/DayZCommander RecentServer.cs
+17% https://www.github.com/wildone/DayZCommander RecentServer.cs
+17% https://www.github.com/MongkonEiadon/WalletManager NumbericFormatConverter - Copy.cs
+17% https://www.github.com/mikecomstock/triptitude StringExtensions.cs
+17% https://www.github.com/truongphuong/KuyamStaging DateTimeUltility.cs
+17% https://www.github.com/buzzcloudhimanshu/BuzzCloud General.cs
+17% https://www.github.com/xeno-by/dotwindows myke.cs
+0% https://www.github.com/dazarobbo/BungieNetPlatform DateTimeExtensions.cs
+0% https://www.github.com/PeterKneale/Blog FriendlyDateTime.cs
+0% https://www.github.com/wadechristie/Archive-Api DateTimeExtentions.cs
+0% https://www.github.com/sursani/Sirius DateTimeExtensions.cs
+0% https://www.github.com/dbrgn/SwissRiverTemperatures TimeAgo.cs
+0% https://www.github.com/sidlovskyy/quickstart-mvc DateTimeExtensions.cs
+0% https://www.github.com/diksito/url-shortner UrlHelper.cs
+0% https://www.github.com/apavelm/olnk UrlHelper.cs
+0% https://www.github.com/auxilium/Gitle DateTimeHelper.cs
+0% https://www.github.com/ckalolass/HashBot DateTimeExtensions.cs
+0% https://www.github.com/maroonvillage/main-website DateTimeExtensions.cs
+0% https://www.github.com/Just1n/Jog BlogPost.cs
+0% https://www.github.com/rohitgargwp7/cortanaRepo TimeUtils.cs
+0% https://www.github.com/exceptionless/Exceptionless.DateTimeExtensions DateTimeExtensions.cs
+0% https://www.github.com/deltacodeamir/Taffrica Report.model.cs
+0% https://www.github.com/marto83/SupportSasha HtmlHelpers.cs
+0% https://www.github.com/exceptionless/Exceptionless.DateTimeExtensions DateTimeOffsetExtensions.cs
+0% https://www.github.com/maximilian-krauss/updateSystem.NET applicationSession.Helpers.cs
+0% https://www.github.com/fakedob/Pickles-Automation ConversionManager.cs
+0% https://www.github.com/fatagun/AcikGrup Utils.cs
+0% https://www.github.com/serefbilge/H724 Utils.cs
+0% https://www.github.com/parapara/TickZoomPublic TimeStamp.cs
+0% https://www.github.com/nlh774/DotNetReferenceSource SqlMethodCallConverter.cs
+0% https://www.github.com/Ouroboros/Arianrhod SqlMethodCallConverter.cs
+0% https://www.github.com/ilahsa/cc SqlMethodCallConverter.cs
+0% https://www.github.com/FransBouma/LinqToSQL2 SqlMethodCallConverter.cs
+0% https://www.github.com/Microsoft/referencesource SqlMethodCallConverter.cs
+0% https://www.github.com/tforsberg/z SqlMethodCallConverter.cs
+0% https://www.github.com/zhangyuwu/microsoft SqlMethodCallConverter.cs
+0% https://www.github.com/dee4life2005/CycleUploader ViewerStrava.cs
+0% https://www.github.com/borkaborka/gmit ClrExtensions.cs
+0% https://www.github.com/btevfik/Fuddle Image.aspx.cs
+0% https://www.github.com/truongphuong/KuyamStaging CompanyProfileController.cs
+match count 42 
+total repos 75
+
+Repos with percentage match in range0-10% 33
+Repos with percentage match in range10-20% 23
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 1
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 1
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 4
+Repos with percentage match in range90-100% 13

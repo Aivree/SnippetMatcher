@@ -1,0 +1,103 @@
+0% https://www.github.com/OlegPshenichniy/django-rest-framework-features serializers.py
+0% https://www.github.com/doggyloot/balto-v1 signals.py
+0% https://www.github.com/emef/dontmiss models.py
+0% https://www.github.com/vforgione/dodger tests.py
+0% https://www.github.com/doggyloot/dodger tests.py
+0% https://www.github.com/tturpen/django-csaesrapp forms.py
+0% https://www.github.com/matthiask/plata-options-product admin.py
+0% https://www.github.com/jonnycache/callmd views.py
+0% https://www.github.com/vnc-biz/openerp-magento product.py
+0% https://www.github.com/pavelm2007/products-mongo-test forms.py
+0% https://www.github.com/vforgione/dodger views.py
+0% https://www.github.com/doggyloot/dodger views.py
+0% https://www.github.com/vforgione/dodger forms.py
+0% https://www.github.com/doggyloot/dodger forms.py
+0% https://www.github.com/arthurcode/arthurcode admin.py
+0% https://www.github.com/avictorino/ecomm models.py
+0% https://www.github.com/mortex/Mortex-System forms.py
+0% https://www.github.com/amdeb/BistaAmazonConnector sale.py
+0% https://www.github.com/ashishoist91/Amazon sale.py
+0% https://www.github.com/amdeb/BistaAmazonConnector product.py
+0% https://www.github.com/arpanv/pansuriya product_test.py
+0% https://www.github.com/ashishoist91/Amazon product.py
+0% https://www.github.com/matthiask/plata models.py
+0% https://www.github.com/j2labs/dictshield embedded_documents.py
+0% https://www.github.com/arthurcode/arthurcode 0002_auto__add_productcartitem__del_field_cartitem_item.py
+0% https://www.github.com/tianocore/edk2-BaseTools WorkspaceDatabase.py
+0% https://www.github.com/vathpela/edk2 WorkspaceDatabase.py
+0% https://www.github.com/lmasikl/django-shop forms.py
+0% https://www.github.com/yinshuwei/openerp manage_amazon_listing.py
+0% https://www.github.com/yinshuwei/openerp sale.py
+0% https://www.github.com/vnc-biz/openerp-magento product.py
+0% https://www.github.com/tianocore/buildtools-BaseTools WorkspaceDatabase.py
+0% https://www.github.com/arthurcode/arthurcode 0003_auto__add_giftcardcartitem.py
+0% https://www.github.com/grilledcheesesandwich/EDKII WorkspaceDatabase.py
+0% https://www.github.com/mortex/Mortex-System views.py
+0% https://www.github.com/mlangsdorf/linaro-edk2 WorkspaceDatabase.py
+0% https://www.github.com/hsienchieh/uefilab WorkspaceDatabase.py
+0% https://www.github.com/ARM-software/edk2 WorkspaceDatabase.py
+0% https://www.github.com/arthurcode/arthurcode 0001_initial.py
+0% https://www.github.com/tianocore/edk2 WorkspaceDatabase.py
+0% https://www.github.com/edwinwow/myself forms.py
+0% https://www.github.com/winocm/kaikidan WorkspaceDatabase.py
+0% https://www.github.com/ChenFanFnst/edk2 WorkspaceDatabase.py
+0% https://www.github.com/hisilicon/UEFI WorkspaceDatabase.py
+0% https://www.github.com/arthurcode/arthurcode 0002_auto__chg_field_wishlistitem_note.py
+0% https://www.github.com/arthurcode/arthurcode 0003_auto__del_field_wishlistitem_rank.py
+0% https://www.github.com/JoeSuber/mingo_mongo mingo.py
+0% https://www.github.com/alexander-barabash/UEFI WorkspaceDatabase.py
+0% https://www.github.com/ahs3/linaro-edk2 WorkspaceDatabase.py
+0% https://www.github.com/arthurcode/arthurcode 0004_auto__add_dimension.py
+0% https://www.github.com/arthurcode/arthurcode 0006_auto__chg_field_product_country_of_origin.py
+0% https://www.github.com/arthurcode/arthurcode 0007_auto.py
+0% https://www.github.com/arthurcode/arthurcode 0005_auto__add_field_product_country_of_origin.py
+0% https://www.github.com/snsn/cartridge forms.py
+0% https://www.github.com/arthurcode/arthurcode 0002_auto__chg_field_product_short_description.py
+0% https://www.github.com/arthurcode/arthurcode 0008_auto__del_field_category_is_active.py
+0% https://www.github.com/arthurcode/arthurcode 0003_auto__del_field_product_height__del_field_product_width__del_field_pro.py
+0% https://www.github.com/wllbll/b2csite forms.py
+0% https://www.github.com/lmasikl/django-shop views.py
+0% https://www.github.com/relic7/prodimages recurse_dir_get_exif_forStyleStringT.py
+0% https://www.github.com/arthurcode/arthurcode 0006_auto__chg_field_wishlistitem_created_at.py
+0% https://www.github.com/arthurcode/arthurcode 0005_auto__add_field_wishlistitem_order_item.py
+0% https://www.github.com/ShangShungInstitute/django-manage-it views.py
+0% https://www.github.com/openlabs/magentoerpconnect product.py
+0% https://www.github.com/vnc-biz/openerp-magento product_images.py
+0% https://www.github.com/mirumee/saleor forms.py
+0% https://www.github.com/BigAN/OztrendDelpoy shit_views.py
+0% https://www.github.com/BigAN/OztrendDelpoy views.py
+0% https://www.github.com/arthurcode/arthurcode 0001_initial.py
+0% https://www.github.com/Rciul/PSI_projektas forms.py
+0% https://www.github.com/JamesCarl/chart-blog models.py
+0% https://www.github.com/stephenmcd/cartridge models.py
+0% https://www.github.com/arthurcode/arthurcode 0004_auto__add_wishlistitemtocartitem.py
+0% https://www.github.com/BigAN/OztrendDelpoy models.py
+0% https://www.github.com/obsjames/md-production-public views.py
+0% https://www.github.com/franciskung/myewb2 forms.py
+0% https://www.github.com/doggyloot/balto-v1 models.py
+0% https://www.github.com/manishasharma/manishasharma models.py
+0% https://www.github.com/lenciel/django-fac-webstore forms.py
+0% https://www.github.com/lmasikl/django-shop models.py
+0% https://www.github.com/tim60215/kids models.py
+0% https://www.github.com/dukan0707/test1 NotifyItem.py
+0% https://www.github.com/stefanmonkey/stefanbo models.py
+0% https://www.github.com/stefanmonkey/stefanbo models.py
+0% https://www.github.com/AndrewIngram/django-extra-views tests.py
+0% https://www.github.com/vivenkyan/HOH tests.py
+0% https://www.github.com/orlenko/bccf forms.py
+0% https://www.github.com/openlabs/trytond-amazon-mws product.py
+0% https://www.github.com/arthurcode/arthurcode 0002_auto__add_giftcardorderitem__add_productorderitem__del_field_orderitem.py
+0% https://www.github.com/BigAN/OztrendDelpoy forms.py
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

@@ -1,0 +1,24 @@
+Python
+
+1:python:Snippets/python/Q1Top.py:requests, get, status_code decode_content, shutil, copyfileobj
+2:python:Snippets/python/Q1Mid.py:shhutil, requests, get, copyfileobj, raw, stream
+3:python:Snippets/python/Q1Bottom.py:requests, get, open, write
+
+4:python:Snippets/python/Q2Top.py:render_to_response, RequestContext, HttpResponseRedirect, reverse, Document, DocumentForm, save, is_valid
+5:python:Snippets/python/Q2Mid.py:UploadForm, Upload, HttpResponseRedirect, reverse, render, method
+6:python:Snippets/python/Q2Bottom.py:request, method , FILES, read, render
+
+7:python:Snippets/python/Q3Top.py:ModelForm, getattr, cleaned_data, widget
+8:python:Snippets/python/Q3Mid.py:fields, instance, sku 
+9:python:Snippets/python/Q3Bottom.py:widget, attrs,readonly_fields clean,required
+
+10:python:Snippets/python/Q4Top.py:db.Model, serialize, dump_datetime, strftime
+
+11:python:Snippets/python/Q4Mid.py:convert, json, dumps, to_json
+12:python:Snippets/python/Q4Bottom.py:dumps, RowProxy, default
+
+13:python:Snippets/python/Q5Top.py:numpy filters maximum_filter pyplot binary_erosion generate_binary_structure maximum_filter footprint
+14:python:Snippets/python/Q5Mid.py:scipy operator itemgetter zip flatten
+15:python:Snippets/python/Q5Bottom.py:numpy array np 
+
+

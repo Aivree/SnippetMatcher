@@ -1,0 +1,103 @@
+0% https://www.github.com/CBlair1986/czmud defines.h
+0% https://www.github.com/Vgazmik/skel ctl.h
+0% https://www.github.com/dargueta/CUSPOS cstring.c
+0% https://www.github.com/nileshkulkarni/AUV_UART_AVR checksum.c
+0% https://www.github.com/ngoaho91/bamboocc Utilities.h
+0% https://www.github.com/hubsw/FRESCO NoIndex.h
+0% https://www.github.com/hubsw/FRESCO RawSequence.h
+0% https://www.github.com/mothur/mothur chimerauchimecommand.h
+0% https://www.github.com/fcecagno/epsilon-video-player C3_String.h
+0% https://www.github.com/jonatascmedeiros/Skeleton-Extraction C3_String.h
+0% https://www.github.com/hubsw/FRESCO NoIndex.h
+0% https://www.github.com/hubsw/FRESCO RawSequence.h
+0% https://www.github.com/johnkoo999/Countdown-project-letters- judge.h
+0% https://www.github.com/mothur/mothur chimerauchimecommand.h
+0% https://www.github.com/fcecagno/epsilon-video-player C3_String.h
+0% https://www.github.com/jonatascmedeiros/Skeleton-Extraction C3_String.h
+0% https://www.github.com/southfox/languages BbbString.h
+0% https://www.github.com/abhiagar90/rendezvous MyString.h
+0% https://www.github.com/Macri-man/Opengl-Workshop glhelp.h
+0% https://www.github.com/asford/tmalign basic_fun.h
+0% https://www.github.com/UberGames/EF2GameSource str.h
+0% https://www.github.com/amecky/diesel2D String.h
+0% https://www.github.com/shaojunhan/SynFlood synFlood.h
+0% https://www.github.com/Larkina/Cpp_programming m_string.h
+0% https://www.github.com/chenshuo/recipes StringTrivial.h
+0% https://www.github.com/yavdr/vdr-addon-epgdata2vdr genremap.c
+0% https://www.github.com/Vongo/GLHF Constants.h
+0% https://www.github.com/CThaw90/MassiveSort MassiveSort.h
+0% https://www.github.com/GamesDV/String3 string.h
+0% https://www.github.com/FindBoat/Proxy StringUtils.h
+0% https://www.github.com/alvalea/alm string.h
+0% https://www.github.com/azofeifa/FStitch MEMM_class.h
+0% https://www.github.com/babypuma/leetcode reverse_words_in_a_string.h
+0% https://www.github.com/jdbrice/subsetMuDst xmlConfig.h
+0% https://www.github.com/spring/svn-spring-archive Util.h
+0% https://www.github.com/spring/svn-spring-archive Util.h
+0% https://www.github.com/cpaille/dev String.c
+0% https://www.github.com/Tracker42/C---Epitech String.c
+0% https://www.github.com/johnnytllee/practice class.c
+0% https://www.github.com/ajvwhite/mircgrowl mircgrowl.h
+0% https://www.github.com/rymader/samples i4_assessment_tests.h
+0% https://www.github.com/yaoxx151/DSL-to-CPP-Translator ast_tests.h
+0% https://www.github.com/Distrotech/libmemcached array.c
+0% https://www.github.com/yaoxx151/DSL-to-CPP-Translator i4_assessment_tests.h
+0% https://www.github.com/Jcnorheim/Project-Experience i4_assessment_tests.h
+0% https://www.github.com/DigDeeply/writeCombiningExt array.c
+0% https://www.github.com/guptha-/memstashed array.c
+0% https://www.github.com/jinho10/dht-sched array.c
+0% https://www.github.com/moksha11/apps array.c
+0% https://www.github.com/tony2001/libmemcached array.c
+0% https://www.github.com/naveen-raju/key_value_stores array.c
+0% https://www.github.com/Shulyaka/iso8583tools visa.c
+0% https://www.github.com/ellzey/libmemcached array.c
+0% https://www.github.com/gitpan/Memcached-libmemcached array.c
+0% https://www.github.com/yavdr/vdr-addon-epgdata2vdr channelmap.c
+0% https://www.github.com/mckelvin/libmemcached array.c
+0% https://www.github.com/unix1986/universe array.c
+0% https://www.github.com/albertwcheng/TALENPWMScorer StringUtil.h
+0% https://www.github.com/creationst/shairport4w-dlna http_parser.h
+0% https://www.github.com/grayj/Jedi-Academy sstring.h
+0% https://www.github.com/kennyli92/Translator_Project i4_assessment_tests.h
+0% https://www.github.com/kennyli92/Translator_Project i4_assessment_tests.h
+0% https://www.github.com/onethumb/libmemcached array.c
+0% https://www.github.com/albertwcheng/bedSeq StringUtil.h
+0% https://www.github.com/Metaswitch/libmemcached-upstream array.c
+0% https://www.github.com/matthewnl/joja sstring.h
+0% https://www.github.com/matthewnl/joja sstring.h
+0% https://www.github.com/dpiers/Jedi-Outcast sstring.h
+0% https://www.github.com/jedis/jedioutcast sstring.h
+0% https://www.github.com/bogavante/Razish-OpenJK sstring.h
+0% https://www.github.com/blaenk/jedioutcast sstring.h
+0% https://www.github.com/pinchyCZN/jedioutcast sstring.h
+0% https://www.github.com/Tloz/Jedi-Outcast sstring.h
+0% https://www.github.com/crazysaem/jediacademy sstring.h
+0% https://www.github.com/PJayB/jk2src sstring.h
+0% https://www.github.com/phire/Jedi-Outcast sstring.h
+0% https://www.github.com/Forvater/Jedi_Academy sstring.h
+0% https://www.github.com/drguildo/JediAcademyPC sstring.h
+0% https://www.github.com/blaenk/jediacademy sstring.h
+0% https://www.github.com/aarongraham9/jediAcademy sstring.h
+0% https://www.github.com/xLAva/JediOutcastLinux sstring.h
+0% https://www.github.com/geofl/JK2_1.02Source sstring.h
+0% https://www.github.com/abergmeier/jedi_academy sstring.h
+0% https://www.github.com/graehl/carmel stringkey.h
+0% https://www.github.com/lee-dohm/jediAcademy sstring.h
+0% https://www.github.com/Ced2911/massive-tyrion sstring.h
+0% https://www.github.com/SAML-PPOPP/saml2015 array.c
+0% https://www.github.com/mmusial/JediAcademy sstring.h
+0% https://www.github.com/h3rb/pulp string_functions.h
+0% https://www.github.com/romanalexander/jedi-outcast sstring.h
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

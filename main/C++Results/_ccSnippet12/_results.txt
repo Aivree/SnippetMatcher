@@ -1,0 +1,103 @@
+0% https://www.github.com/hkjels/slug.c slug.c
+0% https://www.github.com/yxd123/simple-web-server Util.c
+0% https://www.github.com/baris/BabyFingers util.h
+0% https://www.github.com/d33tah/whitix file.c
+0% https://www.github.com/hanskompis/sentenced read.c
+0% https://www.github.com/mkoski/Sentenced read.c
+0% https://www.github.com/ChrisDodd/btyacc mstring.c
+0% https://www.github.com/RWTH-OS/MP-MPICH str_util.c
+0% https://www.github.com/vilsbole/42libs my_string.h
+0% https://www.github.com/gre/morpion-solitaire utils.c
+0% https://www.github.com/gre/morpion-solitaire utils.c
+0% https://www.github.com/billowkiller/FBAC stringProcess.c
+0% https://www.github.com/ZoltanKrekus/secsyseng1 common.c
+0% https://www.github.com/cran/memisc parsehelpers.c
+0% https://www.github.com/krlmlr/memisc parsehelpers.c
+0% https://www.github.com/krlmlr/memisc parsehelpers.c
+0% https://www.github.com/crosslink/Link-the-Wiki link_parts.h
+0% https://www.github.com/crosslink/ntcir ant_link_parts.h
+0% https://www.github.com/rforge/memisc parsehelpers.c
+0% https://www.github.com/rforge/memisc parsehelpers.c
+0% https://www.github.com/rforge/memisc parsehelpers.c
+0% https://www.github.com/keiji0/libdata string.c
+0% https://www.github.com/kinghajj/sha3sums propername.c
+0% https://www.github.com/crosslink/tranlator ant_link_parts.h
+0% https://www.github.com/nelseric/sax sax_parser.c
+0% https://www.github.com/videolan/vlc subtitles.c
+0% https://www.github.com/cnev/harwin_ls libft.h
+0% https://www.github.com/tguillem/vlc subtitles.c
+0% https://www.github.com/neverhover/wifi-bus-app stringx.h
+0% https://www.github.com/cnev/harwin_select libft.h
+0% https://www.github.com/bobrippling/ucc-c-compiler str.c
+0% https://www.github.com/Laukien/SimpleShare common.c
+0% https://www.github.com/the-only-ahmed/corewwar libft.h
+0% https://www.github.com/langhai/http-client-c stringx.h
+0% https://www.github.com/ondravondra/vlc subtitles.c
+0% https://www.github.com/r1k/vlc subtitles.c
+0% https://www.github.com/co0p/codekata reverse_jev.c
+0% https://www.github.com/Rodeo314/tim-vlc subtitles.c
+0% https://www.github.com/sirignano/environnement_unix_1 libft.h
+0% https://www.github.com/dodocat/vlc subtitles.c
+0% https://www.github.com/SonarSource/Nemo-projects list.c
+0% https://www.github.com/sunqueen/vlc-2.1.0.oldlib-2010 subtitles.c
+0% https://www.github.com/sunqueen/vlc-2.1.2.32-2008 subtitles.c
+0% https://www.github.com/xant/shardcached stringx.h
+0% https://www.github.com/sunqueen/vlc-2.1.0.oldlib-2005 subtitles.c
+0% https://www.github.com/sunqueen/vlc-2.1.0.subproject-2005 subtitles.c
+0% https://www.github.com/crosslink/xlink ant_link_parts.h
+0% https://www.github.com/zand3rs/fun2 str.c
+0% https://www.github.com/sdelmas/SDesk subtitles.c
+0% https://www.github.com/bashwork/common stringx.c
+0% https://www.github.com/bashwork/common stringx.c
+0% https://www.github.com/sunqueen/vlc-2.1.2.32-2010 subtitles.c
+0% https://www.github.com/drainware/pma struitl.c
+0% https://www.github.com/sunqueen/vlc-2.1.4.32.subproject-2013-update2 subtitles.c
+0% https://www.github.com/sunqueen/vlc-2.1.4.32.subproject-2013 subtitles.c
+0% https://www.github.com/sunqueen/vlc-2.1.0.subproject-2010 subtitles.c
+0% https://www.github.com/Laukien/la-C la_string.c
+0% https://www.github.com/sirignano/algorithmie libft.h
+0% https://www.github.com/elliotchance/delta strings.c
+0% https://www.github.com/jwchong93/Expression_Parsing StringObject.c
+0% https://www.github.com/sunqueen/vlc-2.1.0.subproject-2008 subtitles.c
+0% https://www.github.com/MichaelHu/capp helper.c
+0% https://www.github.com/sunqueen/vlc-2.1.2.32-2005 subtitles.c
+0% https://www.github.com/MayRiv/VideoStreamer helper.c
+0% https://www.github.com/jasonchuah93/LatestShuntingYard StringObject.c
+0% https://www.github.com/ixamit/dbf2txt util.c
+0% https://www.github.com/dancal/ssdb-hyperleveldb strings.h
+0% https://www.github.com/khorben/DeforaOS helper.c
+0% https://www.github.com/Barrett17/haiku-contacts-kit-old propername.c
+0% https://www.github.com/endsock/icomet strings.h
+0% https://www.github.com/cwt8805/simple_webserver helper.c
+0% https://www.github.com/heweitykc/gameserver helper.c
+0% https://www.github.com/kambro/uHttpServer string_tools.c
+0% https://www.github.com/izenecloud/izenelib strutil.h
+0% https://www.github.com/izenecloud/icma strutil.h
+0% https://www.github.com/impegoraro/tagtool str_util.c
+0% https://www.github.com/hanhandan/asus-ddwrt propername.c
+0% https://www.github.com/tetang1230/webserver helper.c
+0% https://www.github.com/SonarSource/Nemo-projects helper.c
+0% https://www.github.com/Gerst20051/Languages helper.c
+0% https://www.github.com/coguhn/haiku-a4-dvb-hacking propername.c
+0% https://www.github.com/MilesChan/easypush strings.h
+0% https://www.github.com/bennoleslie/gettext propername.c
+0% https://www.github.com/bennoleslie/gettext propername.c
+0% https://www.github.com/iu-parfunc/prof_apps propername.c
+0% https://www.github.com/TopHatProductions115/DragonFly-VOS helper.c
+0% https://www.github.com/mihaicarabas/dragonfly propername.c
+0% https://www.github.com/mihaicarabas/dragonfly propername.c
+0% https://www.github.com/luke-gru/cardiff propername.c
+0% https://www.github.com/c9/node-gnu-tools propername.c
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

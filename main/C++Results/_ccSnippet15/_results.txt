@@ -1,0 +1,103 @@
+0% https://www.github.com/vivekp/minix ethern2h.c
+0% https://www.github.com/sgzwiz/Shared-Source-Common-Language-Infrastructure-2.0 vfprintf.h
+0% https://www.github.com/matttbe/lingi1113-2013-p3-minix ethern2h.c
+0% https://www.github.com/ArildF/masters vfprintf.h
+0% https://www.github.com/gbarnett/shared-source-cli-2.0 vfprintf.h
+0% https://www.github.com/tpphu/iVieteanStore vfprintf.h
+0% https://www.github.com/BiancoZandbergen/RTMINIX3 ethern2h.c
+0% https://www.github.com/astrotycoon/source- ethern2h.c
+0% https://www.github.com/astrotycoon/source- ethern2h.c
+0% https://www.github.com/frochet/minix ethern2h.c
+0% https://www.github.com/jjkrol/elka ethern2h.c
+0% https://www.github.com/jjkrol/elka ethern2h.c
+0% https://www.github.com/khorben/DeforaOS ethern2h.c
+0% https://www.github.com/kevinjesse/usr ethern2h.c
+0% https://www.github.com/7shi/minix-tools ethern2h.c
+0% https://www.github.com/jncraton/minix3 ethern2h.c
+0% https://www.github.com/kasiajanocha/shell ethern2h.c
+0% https://www.github.com/mwilbur/minix ethern2h.c
+0% https://www.github.com/robotspace/arminix ethern2h.c
+0% https://www.github.com/ryanbarry/CS170-Project-3 ethern2h.c
+0% https://www.github.com/robotspace/arminix ethern2h.c
+0% https://www.github.com/ryanbarry/CS170-Project-3 ethern2h.c
+0% https://www.github.com/pitex/minix-server ethern2h.c
+0% https://www.github.com/eyalabraham/minix-xt ethern2h.c
+0% https://www.github.com/pitex/minix-shell ethern2h.c
+0% https://www.github.com/chamalo90/LINGI1113 ethern2h.c
+0% https://www.github.com/chamalo90/LINGI1113 ethern2h.c
+0% https://www.github.com/ian0608/gtmymusic xml_parser.c
+0% https://www.github.com/jiayuehua/minix2 ethern2h.c
+0% https://www.github.com/mikezit/Minix3 ethern2h.c
+0% https://www.github.com/ducis/operating-system-labs ethern2h.c
+0% https://www.github.com/ducis/operating-system-labs ethern2h.c
+0% https://www.github.com/ducis/operating-system-labs ethern2h.c
+0% https://www.github.com/liliclinton/Minix-3.1.8-Modified ethern2h.c
+0% https://www.github.com/Spenser309/CS551 ethern2h.c
+0% https://www.github.com/bend/Minix-Defrag ethern2h.c
+0% https://www.github.com/vinivendra/SO ethern2h.c
+0% https://www.github.com/bfeng/mipc ethern2h.c
+0% https://www.github.com/bluaxe/minix ethern2h.c
+0% https://www.github.com/bend/Minix-RC ethern2h.c
+0% https://www.github.com/vivekp/minix-nbsd ethern2h.c
+0% https://www.github.com/ww2000e/lfs_build_note gen_tmpsys_sh.c
+0% https://www.github.com/ww2000e/lfs_build_note gen_lfs_sys_sh.c
+0% https://www.github.com/joncampbell123/openwatcom-hackipedia chk_exec.c
+0% https://www.github.com/sgzwiz/Shared-Source-Common-Language-Infrastructure-2.0 fwprintf.h
+0% https://www.github.com/ArildF/masters fwprintf.h
+0% https://www.github.com/gbarnett/shared-source-cli-2.0 fwprintf.h
+0% https://www.github.com/jmalak/open-watcom chk_exec.c
+0% https://www.github.com/tpphu/iVieteanStore fwprintf.h
+0% https://www.github.com/joncampbell123/openwatcom-hackipedia chk_exec.c
+0% https://www.github.com/open-watcom/owp4v1copy chk_exec.c
+0% https://www.github.com/jmalak/open-watcom chk_exec.c
+0% https://www.github.com/gmail-msn/XOP GetXipSysCfg.c
+0% https://www.github.com/gmail-msn/XOP GetXipSysCfg.c
+0% https://www.github.com/open-watcom/owp4v1copy chk_exec.c
+0% https://www.github.com/gmail-msn/XOP GetMMSLogCfg.c
+0% https://www.github.com/gmail-msn/XOP GetMMSLogCfg.c
+0% https://www.github.com/open-watcom/open-watcom-v2 chk_exec.c
+0% https://www.github.com/arunkhemlai/vimvm os_vms_mms.c
+0% https://www.github.com/xdtianyu/android-4.3 testiconv.c
+0% https://www.github.com/sgzwiz/Shared-Source-Common-Language-Infrastructure-2.0 test2.c
+0% https://www.github.com/joncampbell123/openwatcom-hackipedia chk_exec.c
+0% https://www.github.com/gmail-msn/XOP GetSysInfo.c
+0% https://www.github.com/gmail-msn/XOP GetSysInfo.c
+0% https://www.github.com/teragonaudio/gogo-no-coda thread.c
+0% https://www.github.com/ArildF/masters test2.c
+0% https://www.github.com/gbarnett/shared-source-cli-2.0 test2.c
+0% https://www.github.com/LeonB/vim os_vms_mms.c
+0% https://www.github.com/guns/vim os_vms_mms.c
+0% https://www.github.com/rib/vim os_vms_mms.c
+0% https://www.github.com/blueyed/pkg-vim-mirror os_vms_mms.c
+0% https://www.github.com/zodttd/OpenTTD testiconv.c
+0% https://www.github.com/gxf/heigong testiconv.c
+0% https://www.github.com/ut-osa/lacuna testiconv.c
+0% https://www.github.com/RebirthROM/android_external_qemu testiconv.c
+0% https://www.github.com/abedra/routinator configurator.c
+0% https://www.github.com/hzy199411/vim os_vms_mms.c
+0% https://www.github.com/tpphu/iVieteanStore test2.c
+0% https://www.github.com/sergiorf/SiaPlayerDemo testiconv.c
+0% https://www.github.com/Navaie/Twilight testiconv.c
+0% https://www.github.com/102FTW/Kortal_Mombat testiconv.c
+0% https://www.github.com/coliveira/vim os_vms_mms.c
+0% https://www.github.com/CacaMasta/superjeumegacool testiconv.c
+0% https://www.github.com/subho007/qemu-android testiconv.c
+0% https://www.github.com/ssfdust/Myvim74 os_vms_mms.c
+0% https://www.github.com/ssfdust/Myvim74 os_vms_mms.c
+0% https://www.github.com/ssfdust/Myvim74 os_vms_mms.c
+0% https://www.github.com/ssfdust/Myvim74 os_vms_mms.c
+0% https://www.github.com/ssfdust/Myvim74 os_vms_mms.c
+0% https://www.github.com/ssfdust/Myvim74 os_vms_mms.c
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

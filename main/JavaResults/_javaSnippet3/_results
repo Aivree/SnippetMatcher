@@ -1,0 +1,103 @@
+0% https://www.github.com/uryyyyyyy/JavaStudy DateTimeFormatterSample.java
+0% https://www.github.com/tgbyte/usertype TimestampColumnZonedDateTimeMapper.java
+0% https://www.github.com/andrew-bk/datagen ConstantDateDatumTest.java
+0% https://www.github.com/michaelom/java-8-techie-lunch FormatterTest.java
+0% https://www.github.com/netceteragroup/ncau-jsr-310 ApiDemoTest.java
+0% https://www.github.com/dmlloyd/openjdk TestDateTimeParsing.java
+0% https://www.github.com/koutheir/incinerator-hotspot TestDateTimeParsing.java
+0% https://www.github.com/isaacl/openjdk-jdk TestDateTimeParsing.java
+0% https://www.github.com/HerrB92/obp TimestampColumnLocalDateTimeMapper.java
+0% https://www.github.com/ThreeTen/threetenbp TestDateTimeParsing.java
+0% https://www.github.com/hw-claudio/osv_external_aarch64 TCKFormatStyle.java
+0% https://www.github.com/isaacl/openjdk-jdk TCKFormatStyle.java
+0% https://www.github.com/JadiraOrg/jadira TimestampColumnLocalDateTimeMapper.java
+0% https://www.github.com/JadiraOrg/jadira TimestampColumnLocalDateTimeMapper.java
+0% https://www.github.com/koutheir/incinerator-hotspot TCKFormatStyle.java
+0% https://www.github.com/dmlloyd/openjdk TCKFormatStyle.java
+0% https://www.github.com/HerrB92/obp TimestampColumnLocalTimeMapper.java
+0% https://www.github.com/baratali/jdk8 TCKFormatStyle.java
+0% https://www.github.com/uditrugman/openjdk8-jdk TCKFormatStyle.java
+0% https://www.github.com/tgbyte/usertype TimestampColumnInstantMapper.java
+0% https://www.github.com/HerrB92/obp DateColumnLocalDateMapper.java
+0% https://www.github.com/JadiraOrg/jadira TimestampColumnMonthDayMapper.java
+0% https://www.github.com/JadiraOrg/jadira TimestampColumnMonthDayMapper.java
+0% https://www.github.com/JadiraOrg/jadira TimestampColumnLocalTimeMapper.java
+0% https://www.github.com/JadiraOrg/jadira TimestampColumnLocalTimeMapper.java
+0% https://www.github.com/m-m-m/java8-backports Examples.java
+0% https://www.github.com/isaacl/openjdk-jdk TestDateTimeFormatter.java
+0% https://www.github.com/koutheir/incinerator-hotspot TestDateTimeFormatter.java
+0% https://www.github.com/dmlloyd/openjdk TestDateTimeFormatter.java
+0% https://www.github.com/baratali/jdk8 TestDateTimeFormatter.java
+0% https://www.github.com/HerrB92/obp TimeColumnLocalTimeMapper.java
+0% https://www.github.com/ThreeTen/threetenbp Examples.java
+0% https://www.github.com/hw-claudio/osv_external_aarch64 AbstractTestPrinterParser.java
+0% https://www.github.com/koutheir/incinerator-hotspot AbstractTestPrinterParser.java
+0% https://www.github.com/dmlloyd/openjdk AbstractTestPrinterParser.java
+0% https://www.github.com/baratali/jdk8 AbstractTestPrinterParser.java
+0% https://www.github.com/isaacl/openjdk-jdk AbstractTestPrinterParser.java
+0% https://www.github.com/uditrugman/openjdk8-jdk AbstractTestPrinterParser.java
+0% https://www.github.com/modelinglab/ocl MappedClassProvider.java
+0% https://www.github.com/JadiraOrg/jadira TimeColumnLocalTimeMapper.java
+0% https://www.github.com/JadiraOrg/jadira TimeColumnLocalTimeMapper.java
+0% https://www.github.com/m-m-m/java8-backports UsabilityBasic.java
+0% https://www.github.com/hw-claudio/osv_external_aarch64 TCKDateTimeFormatter.java
+0% https://www.github.com/dmlloyd/openjdk TCKDateTimeFormatter.java
+0% https://www.github.com/koutheir/incinerator-hotspot TCKDateTimeFormatter.java
+0% https://www.github.com/isaacl/openjdk-jdk TCKDateTimeFormatter.java
+0% https://www.github.com/baratali/jdk8 TCKDateTimeFormatter.java
+0% https://www.github.com/uditrugman/openjdk8-jdk TCKDateTimeFormatter.java
+0% https://www.github.com/ThreeTen/threetenbp UsabilityBasic.java
+0% https://www.github.com/dmlloyd/openjdk TCKDateTimeParseResolver.java
+0% https://www.github.com/koutheir/incinerator-hotspot TCKDateTimeParseResolver.java
+0% https://www.github.com/isaacl/openjdk-jdk TCKDateTimeParseResolver.java
+0% https://www.github.com/hw-claudio/osv_external_aarch64 TCKOffsetPrinterParser.java
+0% https://www.github.com/dmlloyd/openjdk TCKOffsetPrinterParser.java
+0% https://www.github.com/koutheir/incinerator-hotspot TCKOffsetPrinterParser.java
+0% https://www.github.com/isaacl/openjdk-jdk TCKOffsetPrinterParser.java
+0% https://www.github.com/uditrugman/openjdk8-jdk TCKOffsetPrinterParser.java
+0% https://www.github.com/baratali/jdk8 TCKOffsetPrinterParser.java
+0% https://www.github.com/hw-claudio/osv_external_aarch64 TCKZoneIdPrinterParser.java
+0% https://www.github.com/isaacl/openjdk-jdk TCKZoneIdPrinterParser.java
+0% https://www.github.com/koutheir/incinerator-hotspot TCKZoneIdPrinterParser.java
+0% https://www.github.com/uditrugman/openjdk8-jdk TCKZoneIdPrinterParser.java
+0% https://www.github.com/dmlloyd/openjdk TCKZoneIdPrinterParser.java
+0% https://www.github.com/baratali/jdk8 TCKZoneIdPrinterParser.java
+0% https://www.github.com/baratali/jdk8 TCKDateTimeParseResolver.java
+0% https://www.github.com/gelosie/jsl DateTimeFormatter.java
+0% https://www.github.com/GeeKayX/jdk1.8.0_05__source_files DateTimeFormatter.java
+0% https://www.github.com/uditrugman/openjdk8-jdk DateTimeFormatter.java
+0% https://www.github.com/ronshapiro/j86 DateTimeFormatter.java
+0% https://www.github.com/baratali/jdk8 DateTimeFormatter.java
+0% https://www.github.com/dmitry123/lame DateTimeFormatter.java
+0% https://www.github.com/dmlloyd/openjdk DateTimeFormatter.java
+0% https://www.github.com/xusleep/jdk1.8src DateTimeFormatter.java
+0% https://www.github.com/koutheir/incinerator-hotspot DateTimeFormatter.java
+0% https://www.github.com/isaacl/openjdk-jdk DateTimeFormatter.java
+0% https://www.github.com/OpenGamma/OG-Platform DateUtils.java
+0% https://www.github.com/MutabilityDetector/ClientOfMutabilityDetector ThreeTenTest.java
+0% https://www.github.com/xbib/xbib DateTimeFormatterBuilder.java
+0% https://www.github.com/ThreeTen/threetenbp DateTimeFormatterBuilder.java
+0% https://www.github.com/seratch/java-time-backport DateTimeFormatterBuilder.java
+0% https://www.github.com/gelosie/jsl DateTimeFormatterBuilder.java
+0% https://www.github.com/uditrugman/openjdk8-jdk DateTimeFormatterBuilder.java
+0% https://www.github.com/dmitry123/lame DateTimeFormatterBuilder.java
+0% https://www.github.com/GeeKayX/jdk1.8.0_05__source_files DateTimeFormatterBuilder.java
+0% https://www.github.com/xusleep/jdk1.8src DateTimeFormatterBuilder.java
+0% https://www.github.com/koutheir/incinerator-hotspot DateTimeFormatterBuilder.java
+0% https://www.github.com/dmlloyd/openjdk DateTimeFormatterBuilder.java
+0% https://www.github.com/ronshapiro/j86 DateTimeFormatterBuilder.java
+0% https://www.github.com/isaacl/openjdk-jdk DateTimeFormatterBuilder.java
+0% https://www.github.com/baratali/jdk8 DateTimeFormatterBuilder.java
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

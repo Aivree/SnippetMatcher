@@ -1,0 +1,7 @@
+﻿@using Model
+
+@{
+    var fuels = from FuelTypeEnum e in Enum.GetValues(typeof(FuelTypeEnum)) select new { Id = e, Name = e.ToString().Replace('_', ' ') };
+    @Html.DropDownList("FuelType", new SelectList(fuels, "Id", "Name"),"Seleccione", new {@class="form-control"})
+    
+} 

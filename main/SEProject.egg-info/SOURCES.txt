@@ -1,0 +1,7 @@
+setup.py
+SEProject.egg-info/PKG-INFO
+SEProject.egg-info/SOURCES.txt
+SEProject.egg-info/dependency_links.txt
+SEProject.egg-info/not-zip-safe
+SEProject.egg-info/requires.txt
+SEProject.egg-info/top_level.txt

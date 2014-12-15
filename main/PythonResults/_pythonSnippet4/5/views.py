@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+from django.shortcuts import render_to_response
+from django.template import RequestContext
+from django.http import HttpResponseRedirect
+from django.core.urlresolvers import reverse
+
+from multiuploader.models import MultiuploaderImage
+from ServiceSite.uploadsfiles.models import Document
+from ServiceSite.uploadsfiles.forms import DocumentForm
+
+def image_view(request):
+    items = MultiuploaderImage.objects.all()
+    return render_to_response('images.html', {'items':items})
+
+
+def list(request):
+    # Handle file upload
+	if request.method == 'POST':
+		form = DocumentForm(request.POST, request.FILES)
+		if form.is_valid():
+			newdoc = Document(docfile = request.FILES['docfile'])
+			newdoc.save()
+
+			# Redirect to the document list after POST
+			return HttpResponseRedirect(reverse('uploadsfiles.views.list'))
+	else:
+		form = DocumentForm() # A empty, unbound form
+
+	# Load documents for the list page
+	documents = Document.objects.all()
+	# Render list page with the documents and the form
+	return render_to_response(
+		'uploadsfiles/list.html',
+		{'documents': documents, 'form': form},
+		context_instance=RequestContext(request)
+	)

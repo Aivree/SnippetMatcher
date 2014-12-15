@@ -6,6 +6,7 @@ from BeautifulSoup import BeautifulSoup
 def getPercentage(url):
     response = urllib2.urlopen(url)
     result =response.read()
+    response.close()
     soup= BeautifulSoup(result)
     soup.prettify()
     k=str(soup.findAll('table'))

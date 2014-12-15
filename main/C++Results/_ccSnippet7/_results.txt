@@ -1,0 +1,103 @@
+92% https://www.github.com/Tymek/sort exec.c
+88% https://www.github.com/wouterverweirder/devineClassOf2016 SysCommand.h
+88% https://www.github.com/zzchencn/GestureDetector basic.h
+88% https://www.github.com/rahulbudhiraja/NostalgiaBackgroundProcess testApp.h
+88% https://www.github.com/felixhekhorn/Master helper.h
+88% https://www.github.com/pandian4github/CodeNFun CompilationUnit.h
+76% https://www.github.com/carlesmateo-com/qtping2 ping.h
+69% https://www.github.com/sirlatrom/persistent-ds-cplusplus main_ns.h
+0% https://www.github.com/HenryGBC/OS_Info funciones.h
+0% https://www.github.com/DarthBo/beeldverwerking-project io_utils.h
+0% https://www.github.com/Inlife/video-cube Encoder.h
+0% https://www.github.com/mwarning/plain-prpl scripts.c
+0% https://www.github.com/luisivan/QtOctave libs_copy.c
+0% https://www.github.com/Inlife/video-cube Encoder.h
+0% https://www.github.com/mwarning/plain-prpl scripts.c
+0% https://www.github.com/harry191518/RLai_VM server.c
+0% https://www.github.com/jehurodrig/PHP-4.0.6-16-07-2009 exec.c
+0% https://www.github.com/luisivan/QtOctave libs_copy.c
+0% https://www.github.com/crapp/servermonitor globalutils.h
+0% https://www.github.com/Zekom/QtOctave libs_copy.c
+0% https://www.github.com/mambrus/ryzcom command.c
+0% https://www.github.com/blizzardplus/Code-Talker-Tunnel iprule-server.c
+0% https://www.github.com/blizzardplus/Code-Talker-Tunnel iprule-server.c
+0% https://www.github.com/flowsha/cdma cdma_alarm.c
+0% https://www.github.com/urbanm23/FS_for_ADB_w_FUSE bt_adbfuse_urbanek_2014.h
+0% https://www.github.com/eatnumber1/goal goal.h
+0% https://www.github.com/htruong/chumbybt backend_server.c
+0% https://www.github.com/mariodebian/tcos mount_listener.c
+0% https://www.github.com/zenon-language/ZDB zdb.c
+0% https://www.github.com/matsuu/ccs-tools mailauth.c
+0% https://www.github.com/htruong/misc_scripts backend_server.c
+0% https://www.github.com/isieo/adbFS utils.h
+0% https://www.github.com/SiteView/bigit-chrome utils.h
+0% https://www.github.com/pauldmps/vendor_st-ericsson_u8500 tatl00ab.c
+0% https://www.github.com/pauldmps/vendor_st-ericsson_u8500 tatl00db.c
+0% https://www.github.com/henrryhe/beijing-7101 sh4outbin.c
+0% https://www.github.com/feherneoh/vendor_st-ericsson tatl00ab.c
+0% https://www.github.com/feherneoh/vendor_st-ericsson tatl00db.c
+0% https://www.github.com/XMelancholy/android_vendor tatl00ab.c
+0% https://www.github.com/XMelancholy/android_vendor tatl00db.c
+0% https://www.github.com/UNiQ10/ST-Ericsson-U8500 tatl00ab.c
+0% https://www.github.com/UNiQ10/ST-Ericsson-U8500 tatl00db.c
+0% https://www.github.com/ipinotti/librouter acl.c
+0% https://www.github.com/miggaiowski/Systems-Security wordharvest_mac.c
+0% https://www.github.com/juanfra684/test-src nw5.c
+0% https://www.github.com/downwa/radioplay netcat.c
+0% https://www.github.com/miggaiowski/Systems-Security wordharvest.c
+0% https://www.github.com/miggaiowski/Systems-Security wordharvest_linux.c
+0% https://www.github.com/fengmushu/MT basic.c
+0% https://www.github.com/lipengyuntian/sdbc chkrk.c
+0% https://www.github.com/lattera/openbsd nw5.c
+0% https://www.github.com/munjeni/android_real_web_server nw5.c
+0% https://www.github.com/ryo/openbsd-src nw5.c
+0% https://www.github.com/bitrig/bitrig nw5.c
+0% https://www.github.com/avsm/src nw5.c
+0% https://www.github.com/nmacs/lm3s-uclinux nw5.c
+0% https://www.github.com/arrogantpenguin/PenguinoOS nw5.c
+0% https://www.github.com/GNA-SERVICES-INC/MoNGate nw5.c
+0% https://www.github.com/Freeaqingme/OpenBSD nw5.c
+0% https://www.github.com/toddfries/OpenBSD-gnu-patches nw5.c
+0% https://www.github.com/enukane/openbsd-work nw5.c
+0% https://www.github.com/Bluerise/OpenBSD-src nw5.c
+0% https://www.github.com/jyin0813/OpenBSD-src nw5.c
+0% https://www.github.com/gitpan/perl_debug nw5.c
+0% https://www.github.com/netzbasis/openbsd-src nw5.c
+0% https://www.github.com/pakohan/syso-kernel nw5.c
+0% https://www.github.com/scs/uclinux nw5.c
+0% https://www.github.com/p5p/perl5-test nw5.c
+0% https://www.github.com/evalEmpire/perl5ic nw5.c
+0% https://www.github.com/gitpan/kurila nw5.c
+0% https://www.github.com/argyletechnologygroup/perl5 nw5.c
+0% https://www.github.com/ipwndev/DSLinux-Mirror nw5.c
+0% https://www.github.com/ZHAW-INES/rioxo-uClinux-dist nw5.c
+0% https://www.github.com/xin3liang/toolchain_perl nw5.c
+0% https://www.github.com/syuu1228/openbsd-src nw5.c
+0% https://www.github.com/damonkohler/sl4a nw5.c
+0% https://www.github.com/lattera/openbsd nw5.c
+0% https://www.github.com/munjeni/android_real_web_server nw5.c
+0% https://www.github.com/shadowcat-mst/pumpkin-perl-staging nw5.c
+0% https://www.github.com/ryo/openbsd-src nw5.c
+0% https://www.github.com/bitrig/bitrig nw5.c
+0% https://www.github.com/macholic/perl5 nw5.c
+0% https://www.github.com/pexip/os-perl nw5.c
+0% https://www.github.com/krytarowski/openbsd-current nw5.c
+0% https://www.github.com/marcgreen/perl-pod-checker nw5.c
+0% https://www.github.com/avsm/src nw5.c
+0% https://www.github.com/premiamatti/mybsd nw5.c
+0% https://www.github.com/salva/perl5 nw5.c
+0% https://www.github.com/hiromitsu-itou/.perlbrew nw5.c
+0% https://www.github.com/GNA-SERVICES-INC/MoNGate nw5.c
+match count 8 
+total repos 90
+
+Repos with percentage match in range0-10% 82
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 1
+Repos with percentage match in range70-80% 1
+Repos with percentage match in range80-90% 5
+Repos with percentage match in range90-100% 1

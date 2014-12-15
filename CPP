@@ -1,0 +1,20 @@
+C Plus Plus
+
+1:cc:Snippets/cpp/Q1Top.cpp:string istringstream iss copy istream_iterator ostream_iterator cout
+2:cc:Snippets/cpp/Q1Mid.cpp:vector string split string char stringstream ss getline push_back
+3:cc:Snippets/cpp/Q1Bottom.cpp:vector string TokenizeDefault string regex re Tokenize
+4:cc:Snippets/cpp/Q2Top.cpp:string char size copy begin end delete
+5:cc:Snippets/cpp/Q2Mid.cpp:string c_str old_x data size strcpy alloca delete free strdup
+6:cc:Snippets/cpp/Q2Bottom.cpp:string char c_str length strcpy
+7:cc:Snippets/cpp/Q3Top.cpp:string exec char FILE popen feof fgets pclose
+8:cc:Snippets/cpp/Q3Mid.cpp:ipstream proc string getline proc.out proc.err
+9:cc:Snippets/cpp/Q3Bottom.cpp:ssystem char c_str tmpnam file eof push_back get close
+10:cc:Snippets/cpp/Q4Top.cpp:string ltrim erase begin find_if begin end not1 ptr_fun int isspace rtrim rbegin rend base trim
+11:cc:Snippets/cpp/Q4Mid.cpp:boost::algorithm string trim
+12:cc:Snippets/cpp/Q4Bottom.cpp:trim char isalnum strlen string
+13:cc:Snippets/cpp/Q5Top.cpp:int size_t CTL_HW HW_AVAILCPU sysctl
+14:cc:Snippets/cpp/Q5Mid.cpp:etNumCores WIN32 SYSTEM_INFO GetSystemInfo dwNumberOfProcessors MACOS int size_t uint32_t CTL_HW HW_AVAILCPU sysctl sysconf _SC_NPROCESSORS_ONLN
+15:cc:Snippets/cpp/Q5Bottom.cpp:char int FILE fopen fgets sizeof memcmp
+
+
+

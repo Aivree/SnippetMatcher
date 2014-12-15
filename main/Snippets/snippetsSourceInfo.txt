@@ -1,2 +1,1 @@
-java:Snippets/java/FormateDate.java:Timezone getAvailableIds getTimeZone getOffset getRawOffset
-python:Snippets/python/pythontest1.py:RequestContext HttpResponseRedirect DocumentForm RequestContext django.http
+1:csharp:Snippets/csharp/Q1Right.cs:int double TimeSpan DateTime UtcNow Math Abs Floor Ticks TotalSeconds Seconds Minutes Hours Days Convert ToInt32

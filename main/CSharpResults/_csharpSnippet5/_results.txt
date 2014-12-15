@@ -1,0 +1,103 @@
+0% https://www.github.com/kijanawoodard/SubscriptionFulfillment SubscriptionController.cs
+0% https://www.github.com/blrkram/IRS-DEMO UserController.cs
+0% https://www.github.com/ramckrish/IRSPrototype UserController.cs
+0% https://www.github.com/TerryHughes/DahliaCqrs ManageRetreatsController.cs
+0% https://www.github.com/mserrate/serrate.net FinishOrderController.cs
+0% https://www.github.com/gvassas/ShoppingCart HomeController.cs
+0% https://www.github.com/NathanCastle/Send-a-Smile MailSubController.cs
+0% https://www.github.com/fkalseth/tasknotes TaskController.cs
+0% https://www.github.com/ibezuglyi/DreamJob OfferController.cs
+0% https://www.github.com/FireAlkazar/MOM GameController.cs
+0% https://www.github.com/DavidHoerster/Agile.Cqrs ReservationController.cs
+0% https://www.github.com/antonsavov/mahala-webapp FriendshipsController.cs
+0% https://www.github.com/nikolovp/MahalaRepository FriendshipsController.cs
+0% https://www.github.com/yuabd/Activity ActiveController.cs
+0% https://www.github.com/ridercz/Rap MessageController.cs
+0% https://www.github.com/myu/HR.Platform MySpaceController.cs
+0% https://www.github.com/kilonet/elfam OrderController.cs
+0% https://www.github.com/s-leonard/Tarts BookingsController.cs
+0% https://www.github.com/blaw2422/PERK CMCController.cs
+0% https://www.github.com/dhulchallenge/raj CarBooking.cs
+0% https://www.github.com/ridercz/Rap UserController.cs
+0% https://www.github.com/bearing09/JSPSBVendorsManage CustomerProjectController.generated.cs
+0% https://www.github.com/geetagad/TGIF EventController.cs
+0% https://www.github.com/SocialMedical/aspnet-apollo CustomerController.cs
+0% https://www.github.com/jamesblack9/CocBook AdminController.cs
+0% https://www.github.com/lucidcoding/EnterpriseExample AgreementController.cs
+0% https://www.github.com/centrocompra/Centro HomeController.cs
+0% https://www.github.com/nsillvan/SNMPDemo HomeController.cs
+0% https://www.github.com/paulduran/SqlMonitor QueryController.cs
+0% https://www.github.com/ZhangColin/cqrs-journey_by_Colin PaymentController.cs
+0% https://www.github.com/jbossen/P3-Program OrganizationController.cs
+0% https://www.github.com/Yasaar/kyckling ReservationController.cs
+0% https://www.github.com/ryanbutler/trunk HomeController.cs
+0% https://www.github.com/apaz89/Galeria PasswordRecoveryController.cs
+0% https://www.github.com/apaz89/Galeria-Overflow PasswordRecoveryController.cs
+0% https://www.github.com/nicko777/CrashRepairParts FeedbackController.cs
+0% https://www.github.com/deirdrak/MiniDropbox PasswordRecoveryController.cs
+0% https://www.github.com/triangle-io/Stockwinners UsersController.cs
+0% https://www.github.com/yossita/PL-Courses UnsubscribeController.cs
+0% https://www.github.com/Dong-Yang/HNXC FeedingController.cs
+0% https://www.github.com/dilkuwor/Student-Grading-System CourseController.cs
+0% https://www.github.com/CMPE285-Project/TheaterGuide ReservationController.cs
+0% https://www.github.com/museumvictoria/describe-me AdminController.cs
+0% https://www.github.com/Dnigor/PWSM PaymentController.cs
+0% https://www.github.com/PublicarNuevosNegocios/SaludGuru ExternalAppointmentController.cs
+0% https://www.github.com/ItsAnnieHere/GovernorPortal MembershipController.cs
+0% https://www.github.com/condur/DocGen HomeController.cs
+0% https://www.github.com/deirdrak/MiniDropbox ReferralInviteController.cs
+0% https://www.github.com/NuGet/NuGetGallery UsersController.cs
+0% https://www.github.com/kadete90/PI-1314v-LI51N-G05 AdvertiseController.cs
+0% https://www.github.com/wangzhitao81/PreAuth CancelPreAuthController.cs
+0% https://www.github.com/tah91/eworkyWebSite T4MVC.cs
+0% https://www.github.com/chernikov/turniri MessageController.cs
+0% https://www.github.com/mabe/BalloonShopMvc OrderController.cs
+0% https://www.github.com/mtian/SiteExtensionGallery UsersController.cs
+0% https://www.github.com/joaotfernandes/RealEstateBooking BookingController.cs
+0% https://www.github.com/nicko777/CrashRepairParts BrqAdminController.cs
+0% https://www.github.com/sixtythreebits/creditboost AgentHomeController.cs
+0% https://www.github.com/bearing09/JSPSBVendorsManage CustomerProjectController.cs
+0% https://www.github.com/sp00kler/ScT-LanSuite PaypalController.cs
+0% https://www.github.com/liammclennan/Herald CampaignController.cs
+0% https://www.github.com/ContestHunter/ContestHunter ContestController.cs
+0% https://www.github.com/Dnigor/PWSM GlobalPaymentController.cs
+0% https://www.github.com/cadimmek/conference-management PaymentController.cs
+0% https://www.github.com/CurtinUniversity/Research-Data-Manager ApprovalController.cs
+0% https://www.github.com/tangxuehua/MicrosoftConferenceSample PaymentController.cs
+0% https://www.github.com/mspnp/cqrs-journey-code PaymentController.cs
+0% https://www.github.com/michaelsaunders/AirService AccountController.Payment.cs
+0% https://www.github.com/alphafoxtrotmike/MVC-Storefront OrderController.cs
+0% https://www.github.com/andrewmyhre/ticketmuffin EventManagementController.cs
+0% https://www.github.com/tangxuehua/Conference PaymentController.cs
+0% https://www.github.com/nicko777/CrashRepairParts ResellerController.cs
+0% https://www.github.com/keikan231/Vuabep AccountController.cs
+0% https://www.github.com/luvcjssy/portalhotel homeController.cs
+0% https://www.github.com/thardy/iServe NeedController.cs
+0% https://www.github.com/mick1313/WFS ReportController.cs
+0% https://www.github.com/Edalzebu/MiniDropbox-Programacion4 PasswordRecoveryController.cs
+0% https://www.github.com/martinokello/MartinLayooIncGit HomeController.cs
+0% https://www.github.com/fellowshiptech/ft-iserve NeedController.cs
+0% https://www.github.com/cheefgeek/PR-efficax-admin CustomerController.cs
+0% https://www.github.com/tblanco545/Prestocho.eu TrabajoUsuariosController.cs
+0% https://www.github.com/nicko777/CrashRepairParts BasketController.cs
+0% https://www.github.com/romanservices/CodeSamples StoryBookController.cs
+0% https://www.github.com/jperilla/FreelanceHub AccountController.cs
+0% https://www.github.com/SoftwareProject2013/BeerShop OrdersController.cs
+0% https://www.github.com/ouhi2008/NuGetGalleryWithLDAP PackagesController.cs
+0% https://www.github.com/IdeaFortune/EDriveAutos AccountController.cs
+0% https://www.github.com/jcubero/MobiMagic-SaaS AccountController.cs
+0% https://www.github.com/romaan/uq-itee-assignment HomeController.cs
+0% https://www.github.com/apaz89/Galeria ChangeUserSpaceLimitController.cs
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

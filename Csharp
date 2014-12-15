@@ -1,0 +1,17 @@
+Csharp
+
+1:csharp:Snippets/csharp/Q1Right.cs:int double TimeSpan DateTime UtcNow Math Abs Floor Ticks TotalSeconds Seconds Minutes Hours Days Convert ToInt32
+2:csharp:Snippets/csharp/Q1Mid.cs:double TimeSpan DateTime Math Abs TotalSeconds Ticks Seconds Minutes Hours Days Convert ToInt32 Floor int
+3:csharp:Snippets/csharp/Q1Bottom.cs:RelativeDateTimeCount string Empty TimeSpan DateTime Now Days ToString Hours Minutes
+4:csharp:Snippets/csharp/Q2Right.cs:ActionNameSelectorAttribute Name Argument IsValidName ControllerContext MethodInfo Controller ValueProvider GetValue
+5:csharp:Snippets/csharp/Q2Mid.cs:Controller ActionResult Send Cancel View
+6:csharp:Snippets/csharp/Q2Bottom.cs:MultipleButtonActionAttribute ActionNameSelectorAttribute List string AcceptedButtonNames ToList IsValidName ControllerContext MethodInfo Controller ValueProvider GetValue RouteData Add
+7:csharp:Snippets/csharp/Q3Right.cs:SelectList ToSelectList TEnum IComparable IFormattable IConvertible GetValues Enum ToString Id Name
+8:csharp:Snippets/csharp/Q3Mid.cs:Enum GetValues Id Name ToString SelectList
+9:csharp:Snippets/csharp/Q3Bottom.cs:MvcHtmlString EnumDropDownList TEnum HtmlHelper IEnumerable Enum GetValues Cast List string ToString GetCustomAttributes DescriptionAttribute Count Description Add SelectListItem Text Value Selected DropDownList
+10:csharp:Snippets/csharp/Q4Right.cs:IValueConverter Convert object Type CultureInfo DependencyProperty UnsetValue Enum IsDefined GetType Parse Equals
+11:csharp:Snippets/csharp/Q4Mid.cs:EnumToBooleanConverter IValueConverter Convert Type object CultureInfo Enum HasFlag ConvertBack Equals Binding DoNothing
+12:csharp:Snippets/csharp/Q4Bottom.cs:EnumHasFlagToBooleanConverter IValueConverter object Convert Type CultureInfo Enum HasFlag ConvertBack Equals Binding DoNothing int NavigationProjectDates
+13:csharp:Snippets/csharp/Q5Right.cs:MailAddress string StmpClient SmptDeliveryMethod Host Port DeliveryMethod UseDefaultCredentials Credentials Network NetworkCredentials Address MailMessage Send
+14:csharp:Snippets/csharp/Q5Mid.cs:MailMessage SmtpClient MailAddress From To Subject Body Add Attachment Port Credentials EnableSsl Send
+15:csharp:Snippets/csharp/Q5Bottom.cs:SendEmail NetworkCredentials MailMessage SmtpClient From MailAddress To Subject Body IsBodyHtml EnableSsl UseDefaultCredentials Credentials Send

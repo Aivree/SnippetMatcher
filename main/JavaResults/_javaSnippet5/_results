@@ -1,0 +1,29 @@
+24% https://www.github.com/Gravezappa/Caffee CryptoUtils.java
+24% https://www.github.com/danidemi/europrices VerifiedTextEncryptor.java
+22% https://www.github.com/HTWK-App/Server-Application AuthenticationService.java
+22% https://www.github.com/tojo/symmetric-password-encryption-example SymmetricPasswordEncryptionExample.java
+22% https://www.github.com/xeraa/morphia-demo AESEncryptor.java
+22% https://www.github.com/lvqiang/rainbowland RainbowlandConnectionRepository.java
+22% https://www.github.com/liufeiit/SpringExt SecurityTester.java
+22% https://www.github.com/liufeiit/SpringExt DesUtils.java
+22% https://www.github.com/JD-Software/JDeSurvey SimpleTests.java
+22% https://www.github.com/dsyer/spring-security-rsa RsaSecretEncryptor.java
+19% https://www.github.com/bioko/system ProdEntityEncryptionService.java
+14% https://www.github.com/spring-projects/spring-security Encryptors.java
+14% https://www.github.com/tekul/spring-security Encryptors.java
+14% https://www.github.com/diego04/WebsiteImageSharing Encryptors.java
+14% https://www.github.com/liufeiit/SpringExt Encryptors.java
+0% https://www.github.com/torworx/evy-framework Encryptors.java
+match count 15 
+total repos 16
+
+Repos with percentage match in range0-10% 1
+Repos with percentage match in range10-20% 5
+Repos with percentage match in range20-30% 10
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

@@ -1,0 +1,103 @@
+0% https://www.github.com/andyn/httpdns string.h
+0% https://www.github.com/andyn/httpdns string.c
+0% https://www.github.com/pkunavin/ncxmms2 stringptr.h
+0% https://www.github.com/jlongster/js-lljs-c-benchmarks argz.h
+0% https://www.github.com/Sproutling/nRF51822-OSX-Sample argz.h
+0% https://www.github.com/zhouzhenghui/Homura-Note argz.h
+0% https://www.github.com/MatChung/ps3dev-Linux argz.h
+0% https://www.github.com/MatChung/ps3dev-Linux argz.h
+0% https://www.github.com/Patater/newlib argz.h
+0% https://www.github.com/DaveAckley/ISHW argz.h
+0% https://www.github.com/Sproutling/nRF51822-OSX-Sample argz.h
+0% https://www.github.com/opensourceBrown/DR argz.h
+0% https://www.github.com/zhouzhenghui/Homura-Note argz.h
+0% https://www.github.com/vxlite/vxlite argz.h
+0% https://www.github.com/bminor/newlib argz.h
+0% https://www.github.com/romasch/aos_project argz.h
+0% https://www.github.com/romasch/aos_project argz.h
+0% https://www.github.com/fangzhoudalu/fangzhoudalu argz.h
+0% https://www.github.com/MatChung/ps3dev-Linux argz.h
+0% https://www.github.com/MatChung/ps3dev-Linux argz.h
+0% https://www.github.com/romasch/aos_project argz.h
+0% https://www.github.com/romasch/aos_project argz.h
+0% https://www.github.com/fangzhoudalu/fangzhoudalu argz.h
+0% https://www.github.com/MatChung/ps3dev-Linux argz.h
+0% https://www.github.com/MatChung/ps3dev-Linux argz.h
+0% https://www.github.com/RainbowUKR/KidsQuiz argz.h
+0% https://www.github.com/PinguinoIDE/pinguino-compilers argz.h
+0% https://www.github.com/Patater/newlib argz.h
+0% https://www.github.com/woojin-ppoory/coco5 argz.h
+0% https://www.github.com/kkmonster/Matlab_Projects argz.h
+0% https://www.github.com/spandey-bd/AllProjects argz.h
+0% https://www.github.com/DaveAckley/ISHW argz.h
+0% https://www.github.com/eblot/newlib argz.h
+0% https://www.github.com/vineel567/IRE WikiParser.c
+0% https://www.github.com/JDK-X/4.4.4 argz.h
+0% https://www.github.com/peterbjornx/posnk argz.h
+0% https://www.github.com/mzd/JoeCodeLib String.h
+0% https://www.github.com/jeffddrake/darkblue-beacon argz.h
+0% https://www.github.com/grub4android/prebuilts argz.h
+0% https://www.github.com/Little-Idiot/Cours argz.h
+0% https://www.github.com/stefanius/arduino argz.h
+0% https://www.github.com/anbangr/trustvisor-dev argz.h
+0% https://www.github.com/dcuartielles/SmartWatch argz.h
+0% https://www.github.com/dcuartielles/SmartWatch argz.h
+0% https://www.github.com/KAMEDAkyosuke/lobirecsdk_cocs2dx_box2d_sample argz.h
+0% https://www.github.com/i-am-shodan/PHDK argz.h
+0% https://www.github.com/wzurek/rotor argz.h
+0% https://www.github.com/baijiaoni/bel_project argz.h
+0% https://www.github.com/Amperific/askp-lite-chain argz.h
+0% https://www.github.com/dioptre/bmos-newlib argz.h
+0% https://www.github.com/jensnockert/dueboot argz.h
+0% https://www.github.com/Wiznet/Energia_Library_WIZnet argz.h
+0% https://www.github.com/Wiznet/Energia_Library_WIZnet argz.h
+0% https://www.github.com/pasu/sunmap argz.h
+0% https://www.github.com/t-crest/patmos-newlib argz.h
+0% https://www.github.com/zoogtech/build-tools argz.h
+0% https://www.github.com/zoogtech/build-tools argz.h
+0% https://www.github.com/istepaniuk/stm32-templates argz.h
+0% https://www.github.com/lunamoonjm/GameFactory argz.h
+0% https://www.github.com/nikhildhamsaniya/Cocos2d-x-For-CocoStudio argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/UECIDE/UECIDE_data argz.h
+0% https://www.github.com/scbwin/dragonmg argz.h
+0% https://www.github.com/xbinglzh/AirRun argz.h
+0% https://www.github.com/sigma-1/Linaro_GCC_4.9 argz.h
+0% https://www.github.com/arm-embedded/newlib.debian argz.h
+0% https://www.github.com/wallento/or1k-newlib argz.h
+0% https://www.github.com/convect/convect argz.h
+0% https://www.github.com/yuye-liu/cocostudioSampleGmae argz.h
+0% https://www.github.com/sdeyerle/pebble_fun argz.h
+0% https://www.github.com/kerlnel/newlib argz.h
+0% https://www.github.com/scottmccain/RedTail argz.h
+0% https://www.github.com/scottmccain/RedTail argz.h
+0% https://www.github.com/alamatic/toolchains argz.h
+0% https://www.github.com/MyungJooLee/BK argz.h
+0% https://www.github.com/bigsupersquid/prebuilt_linux-x86_toolchain_arm-v6k-eabi argz.h
+0% https://www.github.com/Nextpeer/Nextpeer-UFORUN argz.h
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

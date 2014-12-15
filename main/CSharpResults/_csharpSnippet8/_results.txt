@@ -1,0 +1,103 @@
+0% https://www.github.com/SocialMedical/aspnet-apollo SelectList.cs
+0% https://www.github.com/kadete90/PI-1314v-LI51N-G05 PartialDropdownDistrictEnum.cshtml
+0% https://www.github.com/kadete90/PI-1314v-LI51N-G05 PartialDropdownFuelTypeEnum.cshtml
+0% https://www.github.com/rochimensi/test-track Common.cs
+0% https://www.github.com/mikecomstock/triptitude EnumExtensions.cs
+0% https://www.github.com/sourceit/Recurrency.net EnumHelper.cs
+0% https://www.github.com/michal-franc/learndash EnumExtension.cs
+0% https://www.github.com/KozhevnikovDmitry/ExchangeRates EnumExtensions.cs
+0% https://www.github.com/gibletto/NadiaAndPaul EnumExtensions.cs
+0% https://www.github.com/bcstrawn/shopping EnumExtensions.cs
+0% https://www.github.com/Epstone/mypvlog EnumExtensions.cs
+0% https://www.github.com/aplocher/BitCollectors.QfgCharacterEditor ExtensionMethods.cs
+0% https://www.github.com/jmlsmn/theShirtOff EnumExtensions.cs
+0% https://www.github.com/AlaskanShade/TrackViewer Extensions.cs
+0% https://www.github.com/salemano/ConferenceApp EnumExtensions.cs
+0% https://www.github.com/lancer7082/TestMVC Extensions.cs
+0% https://www.github.com/davecowart/DDT EnumHelper.cs
+0% https://www.github.com/slayer12135293/projectmanager PriceCalculationTypeExtensions.cs
+0% https://www.github.com/dneigler/Status-Again SelectListExtension.cs
+0% https://www.github.com/anakrivokuca/EED EnumToSelectList.cs
+0% https://www.github.com/JamieDixon/Illumination.Core EnumExtensions.cs
+0% https://www.github.com/anhvupham/fqtd QueryExtention.cs
+0% https://www.github.com/phonglam29305/fqtd QueryExtention.cs
+0% https://www.github.com/cognitronic/LitStar EnumHelper.cs
+0% https://www.github.com/arunghosh/rh_ats EnumExtension.cs
+0% https://www.github.com/broodjeaap/Avanade-Emina-Opdracht QuestionType.cs
+0% https://www.github.com/phonglam29305/lacawebsite QueryExtention.cs
+0% https://www.github.com/TallyDotNet/event-site ExtensionMethods.cs
+0% https://www.github.com/joshau/Nebula EnumHelpers.cs
+0% https://www.github.com/JscNZ/joshcourtis.com Extension.cs
+0% https://www.github.com/arunghosh/AuxBrainzAdbms EnumExtension.cs
+0% https://www.github.com/digaomatias/AcadOracle MvcExtensions.cs
+0% https://www.github.com/johannest09/Xland2014 XlandExtensions.cs
+0% https://www.github.com/F1nZeR/SportLib SelectListHelper.cs
+0% https://www.github.com/tyaps/nav3_repo MVCHelper.cs
+0% https://www.github.com/Maximcr/bugzbgone ExtensionMethods.cs
+0% https://www.github.com/ThomasBoeriis/SkoleProjekt HtmlHelpers.cs
+0% https://www.github.com/raskarov/StudentManagement OtherExtensions.cs
+0% https://www.github.com/oazabir/teamvy Utility.cs
+0% https://www.github.com/GabrielCapano/transito-de- Extension.cs
+0% https://www.github.com/aozora/arashi SelectListExtensions.cs
+0% https://www.github.com/zeiglar/ecommerce EnumHelper.cs
+0% https://www.github.com/gourabbose/Poultry Helper.cs
+0% https://www.github.com/MyProjectTeam/TeamProject Extensions.cs
+0% https://www.github.com/AmarPotki/Keramatian EnumExtentions.cs
+0% https://www.github.com/AdJones/DigitalScrumBoard Extensions.cs
+0% https://www.github.com/GroupThree/EMU EnumHelpers.cs
+0% https://www.github.com/urise/QuietCorner EnumHelper.cs
+0% https://www.github.com/pashkov/Spontaneous DropDownListForHelper.cs
+0% https://www.github.com/n1ghtmare/Kauntr EnumExtensions.cs
+0% https://www.github.com/pmaxim/pmx.com.ua SelectListHelper.cs
+0% https://www.github.com/akoesnan/PraLoup EnumExtensions.cs
+0% https://www.github.com/Grinderofl/Tracker EnumExtensions.cs
+0% https://www.github.com/urise/MvcRestPattern EnumHelper.cs
+0% https://www.github.com/azericoders/EShop _EditUser.cshtml
+0% https://www.github.com/matthewkimber/openehs CreatePatientViewModel.cs
+0% https://www.github.com/Kemtah/VTCITS Utils.cs
+0% https://www.github.com/wilckerson/SENAI-SPE EnumExtension.cs
+0% https://www.github.com/MarcusTheBold/Test-Case-Tracker RepositoryViewPage.cs
+0% https://www.github.com/vladimirbuglak/HelpDeskTrain UserController.cs
+0% https://www.github.com/antonvdwatering/lp DropDowns.cs
+0% https://www.github.com/robpocko/Perscribo ApplicationsController.cs
+0% https://www.github.com/boek/MudHook MudHookExtensions.cs
+0% https://www.github.com/markashleybell/MABMoney DataHelpers.cs
+0% https://www.github.com/roccacreative/crumb-crm WebHelper.cs
+0% https://www.github.com/raiot/uinem AdsController.cs
+0% https://www.github.com/10336-TeamB/APFTesting PackerInput.cs
+0% https://www.github.com/vladimirbuglak/HelpDeskTrain RequestController.cs
+0% https://www.github.com/WimAtIHomer/LocalizeRoutes RouteResourceModel.cs
+0% https://www.github.com/WimAtIHomer/LocalizeRoutes RouteResourceFindModel.cs
+0% https://www.github.com/wilckerson/SENAI-SPE EnumExtension.cs
+0% https://www.github.com/pvandervelde/Sherlock MvcExtensions.cs
+0% https://www.github.com/jiwanovski/BoardCockpit Extensions.cs
+0% https://www.github.com/HansonDodge/DirtyGirl DirtyGirlExtensions.cs
+0% https://www.github.com/ccpowell/mvc4-examples RtpDashboardViewModel.cs
+0% https://www.github.com/ccpowell/mvc4-examples DashboardViewModel.cs
+0% https://www.github.com/ccpowell/mvc4-examples TipDashboardViewModel.cs
+0% https://www.github.com/shawnewallace/GiveCamp2011 EnumExtensions.cs
+0% https://www.github.com/lucapf/Mario Stato.cs
+0% https://www.github.com/yicone/hhtravel SelectListFactory.cs
+0% https://www.github.com/aghattas/United-International-Sim HtmlExtensions.cs
+0% https://www.github.com/zicjin/Bumblebee ExpendMvc.cs
+0% https://www.github.com/ThomasBoeriis/SkoleProjekt PagesController.cs
+0% https://www.github.com/lucapf/FireAnt_2 Stato.cs
+0% https://www.github.com/borlip/TaskList NewTask.cshtml
+0% https://www.github.com/afonsof/meganium _FieldBox.cshtml
+0% https://www.github.com/jdehlin/Twitta SearchViewModel.cs
+0% https://www.github.com/derekjamescurtis/foss-lock ProductViewModel.cs
+0% https://www.github.com/lapshin1988/TasksManager Extensions.cs
+0% https://www.github.com/ruairiquinn/NewWestlink Extensions.cs
+match count 0 
+total repos 90
+
+Repos with percentage match in range0-10% 90
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 0
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

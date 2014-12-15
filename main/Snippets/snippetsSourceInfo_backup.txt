@@ -1,0 +1,83 @@
+java:Snippets/java/FormateDate.java:Timezone getAvailableIds getTimeZone getOffset getRawOffset
+python:Snippets/python/pythontest1.py:RequestContext HttpResponseRedirect DocumentForm RequestContext django.http
+csharp:Snippets/csharp/test1.cs:TimeSpan DateTime UtcNow Ticks Convert ToInt32 Math Floor
+
+
+
+1:csharp:Snippets/csharp/Q1Right.cs:int double TimeSpan DateTime UtcNow Math Abs Floor Ticks TotalSeconds Seconds Minutes Hours Days Convert ToInt32
+2:csharp:Snippets/csharp/Q1Mid.cs:double TimeSpan DateTime Math Abs TotalSeconds Ticks Seconds Minutes Hours Days Convert ToInt32 Floor int
+3:csharp:Snippets/csharp/Q1Bottom.cs:RelativeDateTimeCount string Empty TimeSpan DateTime Now Days ToString Hours Minutes
+4:csharp:Snippets/csharp/Q2Right.cs:ActionNameSelectorAttribute Name Argument IsValidName ControllerContext MethodInfo Controller ValueProvider GetValue
+5:csharp:Snippets/csharp/Q2Mid.cs:Controller ActionResult Send Cancel View
+6:csharp:Snippets/csharp/Q2Bottom.cs:MultipleButtonActionAttribute ActionNameSelectorAttribute List string AcceptedButtonNames ToList IsValidName ControllerContext MethodInfo Controller ValueProvider GetValue RouteData Add
+7:csharp:Snippets/csharp/Q3Right.cs:SelectList ToSelectList TEnum IComparable IFormattable IConvertible GetValues Enum ToString Id Name
+8:csharp:Snippets/csharp/Q3Mid.cs:Enum GetValues Id Name ToString SelectList
+9:csharp:Snippets/csharp/Q3Bottom.cs:MvcHtmlString EnumDropDownList TEnum HtmlHelper IEnumerable Enum GetValues Cast List string ToString GetCustomAttributes DescriptionAttribute Count Description Add SelectListItem Text Value Selected DropDownList
+10:csharp:Snippets/csharp/Q4Right.cs:EnumBooleanConverter IValueConverter Convert object Type CultureInfo DependencyProperty UnsetValue Enum IsDefined GetType Parse Equals ConvertBack
+11:csharp:Snippets/csharp/Q4Mid.cs:EnumToBooleanConverter IValueConverter Convert Type object CultureInfo Enum HasFlag ConvertBack Equals Binding DoNothing
+12:csharp:Snippets/csharp/Q4Bottom.cs:EnumHasFlagToBooleanConverter IValueConverter object Convert Type CultureInfo Enum HasFlag ConvertBack Equals Binding DoNothing int NavigationProjectDates
+13:csharp:Snippets/csharp/Q5Right.cs:MailAddress string StmpClient SmptDeliveryMethod Host Port DeliveryMethod UseDefaultCredentials Credentials Network NetworkCredentials Address MailMessage Send
+14:csharp:Snippets/csharp/Q5Mid.cs:MailMessage SmtpClient MailAddress From To Subject Body Add Attachment Port Credentials EnableSsl Send
+15:csharp:Snippets/csharp/Q5Bottom.cs:SendEmail NetworkCredentials MailMessage SmtpClient From MailAddress To Subject Body IsBodyHtml EnableSsl UseDefaultCredentials Credentials Send
+
+
+10:java:Snippets/java/Q4Top.java:onSaveInstanceState putBoolean putDouble onRestoreInstanceState getDouble
+
+11:java:Snippets/java/Q4Mid.java:findViewById putBoolean onSaveInstanceState EditText CheckBox
+14:java:Snippets/java/Q5Mid.java:View ViewGroup LayoutInflater getLayoutInflater inflate findViewById TextView addView
+12:java:Snippets/java/Q4Bottom.java:Intent setFlags startActivity FLAG_ACTIVITY_REORDER_TO_FRONT
+
+
+
+
+4:csharp:Snippets/csharp/Q2Right.cs:AttributeUsage AttributeTargets Method AllowMultiple Inherited MultipleButtonAttribute ActionNameSelectorAttribute
+5:csharp:Snippets/csharp/Q2Mid.cs:Controller ActionResult Send View Cancel
+https://github.com/search?utf8=%E2%9C%93&q=AttributeUsage+AttributeTargets+Method+AllowMultiple+Inherited+MultipleButtonAttribute+ActionNameSelectorAttribute+&type=Code&ref=searchresults
+4:csharp:Snippets/csharp/Q2Right.cs:ActionNameSelectorAttribute Name Argument IsValidName ControllerContext MethodInfo Controller ValueProvider GetValue
+
+1:cc:Snippets/cpp/Q1Top.cpp:string istringstream iss copy istream_iterator ostream_iterator cout
+2:cc:Snippets/cpp/Q1Mid.cpp:vector string split string char stringstream ss getline push_back
+3:cc:Snippets/cpp/Q1Bottom.cpp:vector string TokenizeDefault string regex re Tokenize
+4:cc:Snippets/cpp/Q2Top.cpp:string scoped_array char writable size copy begin end get
+5:cc:Snippets/cpp/Q2Mid.cpp:string c_str old_x data size strcpy alloca delete free strdup
+6:cc:Snippets/cpp/Q2Bottom.cpp:string char c_str length strcpy
+7:cc:Snippets/cpp/Q3Top.cpp:string exec char FILE popen feof fgets pclose
+8:cc:Snippets/cpp/Q3Mid.cpp:ipstream proc string getline proc.out proc.err
+9:cc:Snippets/cpp/Q3Bottom.cpp:ssystem char c_str tmpnam file eof push_back get close
+10:cc:Snippets/cpp/Q4Top.cpp:string ltrim erase begin find_if begin end not1 ptr_fun int isspace rtrim rbegin rend base trim
+11:cc:Snippets/cpp/Q4Mid.cpp:boost::algorithm string trim
+12:cc:Snippets/cpp/Q4Bottom.cpp:trim char isalnum strlen string
+
+13:cc:Snippets/cpp/Q5Top.cpp:int size_t CTL_HW HW_AVAILCPU sysctl
+14:cc:Snippets/cpp/Q5Mid.cpp:etNumCores WIN32 SYSTEM_INFO GetSystemInfo dwNumberOfProcessors MACOS int size_t uint32_t CTL_HW HW_AVAILCPU sysctl sysconf _SC_NPROCESSORS_ONLN
+15:cc:Snippets/cpp/Q5Bottom.cpp:char int FILE fopen fgets sizeof memcmp
+
+
+5:csharp:Snippets/csharp/Q2Mid.cs:Controller ActionResult Send Cancel View
+10:csharp:Snippets/csharp/Q4Right.cs:IValueConverter Convert object Type CultureInfo DependencyProperty UnsetValue Enum IsDefined GetType Parse Equals
+
+
+
+Python
+======
+
+1:python:Snippets/python/Q1Top.py:requests get status_code decode_content shutil copyfileobj
+2:python:Snippets/python/Q1Mid.py:shhutil requests get copyfileobj raw stream
+3:python:Snippets/python/Q1Bottom.py:requests get open write
+
+4:python:Snippets/python/Q2Top.py:render_to_response RequestContext HttpResponseRedirect reverse Document DocumentForm save is_valid
+5:python:Snippets/python/Q2Mid.py:UploadForm Upload HttpResponseRedirect reverse render method
+6:python:Snippets/python/Q2Bottom.py:request method FILES read render
+7:python:Snippets/python/Q3Top.py:ModelForm getattr cleaned_data widget
+8:python:Snippets/python/Q3Mid.py:fields instance sku
+9:python:Snippets/python/Q3Bottom.py:widget attrsreadonly_fields clean required
+10:python:Snippets/python/Q4Top.py:db.Model, serialize, dump_datetime, strftime
+
+
+1:javascript:Snippets/javascript/Q1Top.js:RegExp decodeURIComponent null RegExp location search
+2:javascript:Snippets/javascript/Q1Mid.js:decodeURIComponent substring exec window location search replace decode
+3:javascript:Snippets/javascript/Q1Bottom.js:search substring length window split
+4:javascript:Snippets/javascript/Q2Top.js:$http method url data headers
+5:javascript:Snippets/javascript/Q2Mid.js:$http method url data headers transformRequest encodeURIComponent
+6:javascript:Snippets/javascript/Q2Bottom.js:$http post headers success $scope encodeURIComponent angular toJson
+

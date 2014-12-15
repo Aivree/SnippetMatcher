@@ -1,0 +1,17 @@
+43% https://www.github.com/PNNL-Comp-Mass-Spec/MTDB-Creator EnumToBooleanConverter.cs
+43% https://www.github.com/lulzmachine/Craps EnumToBooleanConverter.cs
+43% https://www.github.com/SinaC/BloodBowl EnumToBooleanConverter.cs
+43% https://www.github.com/BCardsOrg/FieldClassifyService EnumToBooleanConverter.cs
+match count 4 
+total repos 4
+
+Repos with percentage match in range0-10% 0
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 4
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 0
+Repos with percentage match in range70-80% 0
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 0

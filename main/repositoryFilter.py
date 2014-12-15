@@ -3,9 +3,23 @@ import urllib2
 import re
 from BeautifulSoup import BeautifulSoup
 
+githubkey={}
+
+githubkey['java']='java'
+githubkey['python']='python'
+githubkey['cc']='c++'
+githubkey['javascript']='javascript'
+githubkey['csharp']='csharp'
+
+_pageLimit=9
+# paramter to improve search precision
+
 def extractRepositoriesFromQueryPage(url_path):
-    response = urllib2.urlopen(url_path)
+    proxy_support = urllib2.ProxyHandler({"http" : "127.0.0.1:8118"})
+    opener = urllib2.build_opener(proxy_support)
+    response = opener.open(url_path)
     html= response.read()
+    response.close()
     soup = BeautifulSoup(html)
     soup.prettify()
     searchResults = str(soup.find(id="code_search_results"))
@@ -47,8 +61,8 @@ def generateGitHubMatchList(keywords,language):
     keywords.pop(0)
     for key in keywords:
         query= query+"+"+key
-    for k in range(1,2):
-        url_path='https://github.com/search?p='+str(k)+'&q='+query+'+language%3A'+language+'&type=Code&utf8=%E2%9C%93'
+    for k in range(1,_pageLimit+1):
+        url_path='https://github.com/search?p='+str(k)+'&q='+query+'+language%3A'+githubkey[language]+'&type=Code&utf8=%E2%9C%93'
         print url_path
         repolist =repolist+ extractRepositoriesFromQueryPage(url_path)
     for i in repolist:

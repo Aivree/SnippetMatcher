@@ -1,0 +1,10 @@
+﻿@using Model
+
+@{ 
+    
+    var districts = from DistrictEnum e in Enum.GetValues(typeof(DistrictEnum)) select new { Id = e, Name = e.ToString().Replace('_',' ') };
+    @Html.DropDownList("District", new SelectList(districts, "Id", "Name"),"Seleccione",new {@class="form-control"} )
+    
+} 
+
+

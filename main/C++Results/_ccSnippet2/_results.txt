@@ -1,0 +1,103 @@
+94% https://www.github.com/bigben0329/zk_api_pro util.h
+92% https://www.github.com/blackmad/s2map http-server.c
+92% https://www.github.com/thild/opConvolution util.h
+92% https://www.github.com/jfellus/2d3d string_retin.h
+92% https://www.github.com/jfellus/agsvm string_retin.h
+92% https://www.github.com/xill/SSCon fontmanager.h
+92% https://www.github.com/blackmad/s2map http-server.c
+87% https://www.github.com/pmprog/FrameworkV4 strings.h
+87% https://www.github.com/pmprog/Konquestor strings.h
+87% https://www.github.com/aydevosotros/BrokerBot Utils.h
+87% https://www.github.com/aydevosotros/LastGodMachine Utils.h
+87% https://www.github.com/aydevosotros/AMMLP Utils.h
+87% https://www.github.com/ToSa27/ToSaMesh ToSaMeshUtils.h
+87% https://www.github.com/ToSa27/ToSaMesh ToSaMeshUtils.h
+87% https://www.github.com/ToSa27/ToSaMesh ToSaMeshUtils.h
+87% https://www.github.com/ToSa27/ToSaMesh ToSaMeshUtils.h
+87% https://www.github.com/ToSa27/RfMesh RfMeshUtils.h
+87% https://www.github.com/ToSa27/RfMesh ToSaMeshUtils.h
+87% https://www.github.com/ToSa27/RfMesh ToSaMeshUtils.h
+87% https://www.github.com/ToSa27/RfMesh ToSaMeshUtils.h
+87% https://www.github.com/tuannt8/voxel-cutting Utility.h
+77% https://www.github.com/kusarius/cvm utils.h
+60% https://www.github.com/yaowei1188/iGame StringExt.h
+60% https://www.github.com/maxipesfix/iwaki nlpw_utils.h
+52% https://www.github.com/crocdialer/KinskiGL Utils.h
+47% https://www.github.com/karlgluck/Evidyon str.h
+32% https://www.github.com/klarre908/homelink home_util.h
+32% https://www.github.com/OSCCAR-PFM/OSCCAR vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/saifthe1/ThirdParty-2.1.x vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/gwierink/OpenFOAM-ThirdParty vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/Kitware/ParaView vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/OSCCAR-PFM/OSCCAR-dev vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/zachmullen/ParaView vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/ObjectivitySRC/ParaViewGeo vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/alexisylchan/CollabVRGUI vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/aashish24/paraview-climate-3.11.1 vtkSpyPlotHistoryReaderPrivate.h
+32% https://www.github.com/alexisylchan/Collab vtkSpyPlotHistoryReaderPrivate.h
+31% https://www.github.com/Faham/bric-n-brac common.h
+31% https://www.github.com/Megaf/MegafXplore string.h
+31% https://www.github.com/Megaf/MinetestPi-Raspbian string.h
+28% https://www.github.com/AlexanderDzhoganov/sphereflake-raytracer StringUtil.h
+28% https://www.github.com/hanappe/opensensordata.net utils.h
+28% https://www.github.com/AlexanderDzhoganov/torrentstream StringFacility.h
+28% https://www.github.com/hanappe/opensensordata.net utils.h
+28% https://www.github.com/Belugion/minetest string.h
+28% https://www.github.com/ChuanonlyGame/myisland string.h
+28% https://www.github.com/Omnistudent/mtclient string.h
+28% https://www.github.com/Omnistudent/osxminecraft string.h
+28% https://www.github.com/rubenwardy/minetest_rts string.h
+28% https://www.github.com/att-kin9/MineWorld string.h
+28% https://www.github.com/MineTime-game/minetime string.h
+28% https://www.github.com/Trehinos/minegame string.h
+28% https://www.github.com/gameabc/worldcraft string.h
+0% https://www.github.com/LarsBK/SpaceRace split.h
+0% https://www.github.com/jyamu/qmc string_utils.h
+0% https://www.github.com/alexloney/ProgrammingContestCode StringManipulation.h
+0% https://www.github.com/dpressel/sgdtk-cpp Types.h
+0% https://www.github.com/richzw/CodeHome SimplfyPath.c
+0% https://www.github.com/kamimuu/EngImg2014 Utility.h
+0% https://www.github.com/jonarbo/GREASY greasyutils.h
+0% https://www.github.com/jigneshjain25/ICPC String_Algos.h
+0% https://www.github.com/liangfang011/OSlab HelperFunc.h
+0% https://www.github.com/liangfang011/OSlab IO.h
+0% https://www.github.com/Gregwar/fatcat FatUtils.h
+0% https://www.github.com/jdbrice/subsetMuDst xmlConfig.h
+0% https://www.github.com/otrebor4/SIC StringLib.h
+0% https://www.github.com/ssarangi/algoquestions generalCode.h
+0% https://www.github.com/perandersson/POGL POGLStringUtils.h
+0% https://www.github.com/UdeM-LBIT/polytomy-solver-distance util.h
+0% https://www.github.com/mikerobe/mrutils mr_strutils.h
+0% https://www.github.com/mantidproject/mantid LeBailFitTest.h
+0% https://www.github.com/liangfang011/OSlab IO.h
+0% https://www.github.com/tarunrs/homework-fall-2011 problem1.c
+0% https://www.github.com/rishikeshsg/Ll1-parser header.h
+0% https://www.github.com/otrebor4/SIC assembler.h
+0% https://www.github.com/ief015/PseudoWire StringHelper.h
+0% https://www.github.com/DmitryKoterov/dklab_realplexor misc.h
+0% https://www.github.com/tarunrs/homework-fall-2011 decision-tree.c
+0% https://www.github.com/facingwaller/poseidon GlobalHelper.h
+0% https://www.github.com/aqq/kf1304 GlobalHelper.h
+0% https://www.github.com/tarunrs/homework-fall-2011 decision-tree.c
+0% https://www.github.com/facingwaller/poseidon GlobalHelper.h
+0% https://www.github.com/aqq/kf1304 GlobalHelper.h
+0% https://www.github.com/NoLifeDev/OldNoLifeStoryTwo Utilities.h
+0% https://www.github.com/KeRNeLith/Single-Multi-Objective-Genetic-Algorithm AlgoString.h
+0% https://www.github.com/sospidera/midi-modulator MIDIKeyChange.c
+0% https://www.github.com/liyaguang/leetcode structures.h
+0% https://www.github.com/otrebor4/SIC assembler.h
+0% https://www.github.com/Xiaonan-Ji/ArticleNet Functions.h
+0% https://www.github.com/hoppalm/dnsResolver myresolver.h
+match count 53 
+total repos 90
+
+Repos with percentage match in range0-10% 37
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 13
+Repos with percentage match in range30-40% 14
+Repos with percentage match in range40-50% 1
+Repos with percentage match in range50-60% 1
+Repos with percentage match in range60-70% 2
+Repos with percentage match in range70-80% 1
+Repos with percentage match in range80-90% 14
+Repos with percentage match in range90-100% 7

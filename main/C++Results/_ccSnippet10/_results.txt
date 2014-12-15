@@ -1,0 +1,54 @@
+97% https://www.github.com/Gurux/GuruxDLMSLib GXHelpers.h
+97% https://www.github.com/Gurux/GuruxDLMSLibServerExample GXHelpers.h
+97% https://www.github.com/Gurux/GuruxDLMSLibClientExample GXHelpers.h
+97% https://www.github.com/Gurux/GuruxDLMSLib GXHelpers.h
+97% https://www.github.com/Gurux/GuruxDLMSLibServerExample GXHelpers.h
+97% https://www.github.com/vgslavov/RIQ-pub riq.C
+96% https://www.github.com/cluries/amazon config.h
+96% https://www.github.com/tarunrs/homework-fall-2011 query1.c
+96% https://www.github.com/tarunrs/homework-fall-2011 query4.c
+96% https://www.github.com/tarunrs/homework-fall-2011 bitmap.c
+96% https://www.github.com/quietust/dfhack-23a uicommon.h
+96% https://www.github.com/quietust/dfhack-40d uicommon.h
+96% https://www.github.com/hyponymous/ccnodeutil CCNodeUtil.h
+96% https://www.github.com/nratliff/workspace utilities.h
+96% https://www.github.com/nratliff/workspace utilities.h
+96% https://www.github.com/frauzufall/crawling-traces-projection Stuff.h
+96% https://www.github.com/quietust/dfhack-23a uicommon.h
+96% https://www.github.com/DFHack/dfhack uicommon.h
+96% https://www.github.com/quietust/dfhack-40d uicommon.h
+96% https://www.github.com/hyponymous/ccnodeutil CCNodeUtil.h
+93% https://www.github.com/tarunrs/homework-fall-2011 query2.c
+93% https://www.github.com/tarunrs/homework-fall-2011 query3.c
+79% https://www.github.com/valabau/openlat utils.h
+79% https://www.github.com/valabau/openlat utils.h
+78% https://www.github.com/gwierink/OpenFOAM-ThirdParty vtkGenericIOUtilities.h
+78% https://www.github.com/OSCCAR-PFM/OSCCAR vtkGenericIOUtilities.h
+78% https://www.github.com/OSCCAR-PFM/OSCCAR-dev vtkGenericIOUtilities.h
+64% https://www.github.com/Gregwar/fatcat FatUtils.h
+45% https://www.github.com/dfk789/CodenameInfinite strutils.h
+45% https://www.github.com/dfk789/CodenameInfinite strutils.h
+0% https://www.github.com/PovilasSid/KTU-L5 functions.h
+0% https://www.github.com/BSVino/SMAK strutils.h
+0% https://www.github.com/BSVino/LunarWorkshop strutils.h
+0% https://www.github.com/BSVino/LunarWorkshop strutils.h
+0% https://www.github.com/BSVino/MathForGameDevelopers strutils.h
+0% https://www.github.com/BSVino/Digitanks strutils.h
+0% https://www.github.com/flensrocker/vdr-plugin-skindesigner helpers.c
+0% https://www.github.com/BSVino/MathForGameDevelopers strutils.h
+0% https://www.github.com/BSVino/ViewbackMonitor strutils.h
+0% https://www.github.com/BSVino/Digitanks strutils.h
+0% https://www.github.com/dase/Claims functions.h
+match count 30 
+total repos 41
+
+Repos with percentage match in range0-10% 11
+Repos with percentage match in range10-20% 0
+Repos with percentage match in range20-30% 0
+Repos with percentage match in range30-40% 0
+Repos with percentage match in range40-50% 2
+Repos with percentage match in range50-60% 0
+Repos with percentage match in range60-70% 1
+Repos with percentage match in range70-80% 5
+Repos with percentage match in range80-90% 0
+Repos with percentage match in range90-100% 22
