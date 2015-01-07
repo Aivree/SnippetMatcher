@@ -11,7 +11,7 @@ To execute the script for a particular snippet, follow the following instruction
 
 Entry format is
 
-<id>:<language>:<path of file containing the snippet>:<space seperated keywords>
+"<id>:<language>:<path of file containing the snippet>:<space seperated keywords>"
 
 For example:- 
 1:csharp:Snippets/csharp/Q1Right.cs:int double TimeSpan DateTime UtcNow Math Abs Floor Ticks TotalSeconds Seconds Minutes Hours Days Convert ToInt32
