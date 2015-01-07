@@ -80,4 +80,13 @@ Python
 4:javascript:Snippets/javascript/Q2Top.js:$http method url data headers
 5:javascript:Snippets/javascript/Q2Mid.js:$http method url data headers transformRequest encodeURIComponent
 6:javascript:Snippets/javascript/Q2Bottom.js:$http post headers success $scope encodeURIComponent angular toJson
+7:javascript:Snippets/javascript/Q3Top.js:document addEventListener removeEventListener arguments callee attachEvent doScroll documentElement jQuery
 
+8:javascript:Snippets/javascript/Q3Mid.js:DOMContentLoaded readyWait holdReady document body resolveWith bindReady readyState addEventListener attachEvent
+
+10:javascript:Snippets/javascript/Q4Top.js:_renderItem data append desc item appendTo
+11:javascript:Snippets/javascript/Q4Mid.js:_renterItem data append appendTo item desc
+12:javascript:Snippets/javascript/Q4Bottom.js:input data _renderItem ul autocomplete
+
+13:javascript:Snippets/javascript/Q1Top.js:angular module $scope init controller app
+14:javascript:Snippets/javascript/Q5

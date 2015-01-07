@@ -1,1 +1,1 @@
-1:csharp:Snippets/csharp/Q1Right.cs:int double TimeSpan DateTime UtcNow Math Abs Floor Ticks TotalSeconds Seconds Minutes Hours Days Convert ToInt32
+15:javascript:Snippets/javascript/Q5Bottom.js:angular module directive scope url

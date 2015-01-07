@@ -2,6 +2,8 @@
 
 This package has dependency on the BeautifulSoup python libarary which to parse HTML.
 use the command 'sudo python setup.py install' from the main directory to install the dependency.
+This package also has dependency on the moss.pl file. MOSS is a code similarity matching tool.
+Use moss.pl from http://theory.stanford.edu/~aiken/moss/ and place it in the main directory.
 
 To execute the script for a particular snippet, follow the following instructions
 
